@@ -1,0 +1,2245 @@
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="CVE_AGEB">
+          <value>0116</value>
+        </Data>
+        <Data name="CVE_LOC">
+          <value>1.0</value>
+        </Data>
+        <Data name="caso">
+          <value>1</value>
+        </Data>
+        <Data name="columnas_contribuyentes">
+          <value>supermercados y tiendas de abarrotes_porcentaje</value>
+        </Data>
+        <Data name="comercio al por mayor">
+          <value>0.0</value>
+        </Data>
+        <Data name="comercio al por mayor_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="entidad">
+          <value>Michoac&#225;n de Ocampo</value>
+        </Data>
+        <Data name="farmacias">
+          <value>0.0</value>
+        </Data>
+        <Data name="farmacias_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="id_entidad">
+          <value>16.0</value>
+        </Data>
+        <Data name="id_municipio">
+          <value>107.0</value>
+        </Data>
+        <Data name="localidad">
+          <value>Zacapu</value>
+        </Data>
+        <Data name="municipio">
+          <value>Zacapu</value>
+        </Data>
+        <Data name="restaurantes y servicios de comida">
+          <value>0.0</value>
+        </Data>
+        <Data name="restaurantes y servicios de comida_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="supermercados cadenas">
+          <value>0.0</value>
+        </Data>
+        <Data name="supermercados cadenas_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="supermercados y tiendas de abarrotes">
+          <value>5.0</value>
+        </Data>
+        <Data name="supermercados y tiendas de abarrotes_porcentaje">
+          <value>100.0</value>
+        </Data>
+        <Data name="tiendas conveniencia cadena">
+          <value>0.0</value>
+        </Data>
+        <Data name="tiendas conveniencia cadena_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="tiendas varias">
+          <value>0.0</value>
+        </Data>
+        <Data name="tiendas varias_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="totales">
+          <value>5.0</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-101.77184292003666,19.832399679738458,0 -101.7735487195528,19.828966149949355,0 -101.77403413969834,19.82801891036003,0 -101.77548922969422,19.82534601989016,0 -101.77595857980391,19.82450196962611,0 -101.77622140009181,19.82406401976511,0 -101.77629756985992,19.823939649869484,0 -101.77676293984985,19.823034049697814,0 -101.77781279968954,19.821014679725913,0 -101.77795867969314,19.820733579848298,0 -101.77819969008638,19.82031951031137,0 -101.77833292028797,19.8200819797574,0 -101.77868446015479,19.81945425006997,0 -101.78003914984555,19.82013989032591,0 -101.7811604604549,19.820683950173226,0 -101.78242925963528,19.82132057988583,0 -101.78355848040258,19.82183527976303,0 -101.78407575023216,19.822073260435168,0 -101.78459857971377,19.822308249880077,0 -101.78492635044621,19.821719969925073,0 -101.78570319971676,19.82208153992375,0 -101.78580624967425,19.822059740197783,0 -101.78669361992904,19.821891910093548,0 -101.78697869006369,19.821464489974147,0 -101.78727857992958,19.820925030350736,0 -101.78834703033819,19.821446860088958,0 -101.78865282010764,19.82089331988101,0 -101.78945552000184,19.821301490037428,0 -101.79053868038467,19.821907740237943,0 -101.79161181973221,19.82244977992647,0 -101.79225413973107,19.82279430991143,0 -101.79295792038033,19.823027430291642,0 -101.79334511966645,19.823118820394768,0 -101.79391718000086,19.82320257000878,0 -101.79400024993849,19.823494119810682,0 -101.79401629042681,19.82355043005063,0 -101.79386936973388,19.8239968597795,0 -101.79364835024035,19.8244215804092,0 -101.79355901977816,19.8245876503846,0 -101.79308177995922,19.82545654037557,0 -101.79282397027201,19.82571791969504,0 -101.79220847963055,19.826390030228257,0 -101.79184237987904,19.82680112028888,0 -101.79141750969498,19.827245140402365,0 -101.79106185952479,19.827667479841924,0 -101.79080294008556,19.82798179979534,0 -101.79015101996794,19.828710380344415,0 -101.78976713986943,19.829147149739132,0 -101.78959230980047,19.829303680318603,0 -101.78935674015086,19.82953833981357,0 -101.78915388015294,19.829630449931404,0 -101.78884726035332,19.829753150125235,0 -101.7879792801409,19.8298131198395,0 -101.7878713097027,19.829772059630503,0 -101.78702033956732,19.82937617033041,0 -101.78668418012055,19.829383920345542,0 -101.78626866001143,19.829427139958877,0 -101.7858257797979,19.829566849655173,0 -101.78555188995634,19.829672830229892,0 -101.78511383025739,19.829989519696987,0 -101.78499863010987,19.830103780256476,0 -101.78445092036867,19.8305424497548,0 -101.78399868044114,19.830988569976476,0 -101.78356930993097,19.831456000221067,0 -101.78320423041819,19.831873220177894,0 -101.78237584985789,19.831578980234976,0 -101.78206381967958,19.83149505023484,0 -101.7818335701168,19.831461630139707,0 -101.78139215039482,19.8314268003543,0 -101.78078007987006,19.831378490094732,0 -101.77998667954647,19.831472450156753,0 -101.77873577979267,19.83174068021298,0 -101.77827308042446,19.831846829840295,0 -101.77752838030563,19.8321458304019,0 -101.7743159999105,19.833517659998247,0 -101.77027571014533,19.835689770001682,0 -101.76975168003997,19.835899919965144,0 -101.76934859975044,19.836138889938002,0 -101.77013372035894,19.834850689954596,0 -101.77019903041244,19.834736369929544,0 -101.77076028999477,19.833646520040375,0 -101.77114701958973,19.83361321977369,0 -101.7715685496812,19.832922369875476,0 -101.77184292003666,19.832399679738458,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="CVE_AGEB">
+          <value>0120</value>
+        </Data>
+        <Data name="CVE_LOC">
+          <value>1.0</value>
+        </Data>
+        <Data name="caso">
+          <value>2</value>
+        </Data>
+        <Data name="columnas_contribuyentes">
+          <value>supermercados y tiendas de abarrotes_porcentaje, restaurantes y servicios de comida_porcentaje</value>
+        </Data>
+        <Data name="comercio al por mayor">
+          <value>0.0</value>
+        </Data>
+        <Data name="comercio al por mayor_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="entidad">
+          <value>Michoac&#225;n de Ocampo</value>
+        </Data>
+        <Data name="farmacias">
+          <value>0.0</value>
+        </Data>
+        <Data name="farmacias_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="id_entidad">
+          <value>16.0</value>
+        </Data>
+        <Data name="id_municipio">
+          <value>107.0</value>
+        </Data>
+        <Data name="localidad">
+          <value>Zacapu</value>
+        </Data>
+        <Data name="municipio">
+          <value>Zacapu</value>
+        </Data>
+        <Data name="restaurantes y servicios de comida">
+          <value>1.0</value>
+        </Data>
+        <Data name="restaurantes y servicios de comida_porcentaje">
+          <value>25.0</value>
+        </Data>
+        <Data name="supermercados cadenas">
+          <value>0.0</value>
+        </Data>
+        <Data name="supermercados cadenas_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="supermercados y tiendas de abarrotes">
+          <value>3.0</value>
+        </Data>
+        <Data name="supermercados y tiendas de abarrotes_porcentaje">
+          <value>75.0</value>
+        </Data>
+        <Data name="tiendas conveniencia cadena">
+          <value>0.0</value>
+        </Data>
+        <Data name="tiendas conveniencia cadena_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="tiendas varias">
+          <value>0.0</value>
+        </Data>
+        <Data name="tiendas varias_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="totales">
+          <value>4.0</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-101.79320959984348,19.817780420321217,0 -101.79378383005825,19.816753940278442,0 -101.79388928984172,19.816824350009917,0 -101.79472562954705,19.817398140352818,0 -101.79566741976922,19.8180308900822,0 -101.7961080602655,19.818291979565288,0 -101.7962566303461,19.818362780205266,0 -101.79699011041727,19.818719519611307,0 -101.79776665999145,19.819064019801218,0 -101.79800348987476,19.81917235020759,0 -101.79839551995707,19.819537830092006,0 -101.79844928033657,19.819550399719112,0 -101.798860969797,19.819818689611022,0 -101.79820538978443,19.8200148531718,0 -101.79780290446463,19.820712510610782,0 -101.79765121410114,19.820911790657266,0 -101.79719316784465,19.821451690924892,0 -101.79719602264628,19.821497376548155,0 -101.79697901640782,19.821920087802603,0 -101.79676194952236,19.82224679990807,0 -101.79575202993873,19.822835749585323,0 -101.79527353986158,19.823068079683047,0 -101.79461789012734,19.823405369926263,0 -101.79401629042681,19.82355043005063,0 -101.79400024993849,19.823494119810682,0 -101.79391718000086,19.82320257000878,0 -101.79385643042679,19.82286291968402,0 -101.79313709014268,19.82159300042848,0 -101.79265298025567,19.820785600213423,0 -101.79259528026792,19.820715649899544,0 -101.7925608495244,19.820210349834205,0 -101.79258813999296,19.819892909972243,0 -101.79251325032435,19.81945804978967,0 -101.79245986012825,19.819307740054185,0 -101.79247272020075,19.8188814604288,0 -101.7927688002268,19.818416149976404,0 -101.79320959984348,19.817780420321217,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="CVE_AGEB">
+          <value>0135</value>
+        </Data>
+        <Data name="CVE_LOC">
+          <value>1.0</value>
+        </Data>
+        <Data name="caso">
+          <value>2</value>
+        </Data>
+        <Data name="columnas_contribuyentes">
+          <value>supermercados y tiendas de abarrotes_porcentaje, farmacias_porcentaje</value>
+        </Data>
+        <Data name="comercio al por mayor">
+          <value>0.0</value>
+        </Data>
+        <Data name="comercio al por mayor_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="entidad">
+          <value>Michoac&#225;n de Ocampo</value>
+        </Data>
+        <Data name="farmacias">
+          <value>3.0</value>
+        </Data>
+        <Data name="farmacias_porcentaje">
+          <value>27.27</value>
+        </Data>
+        <Data name="id_entidad">
+          <value>16.0</value>
+        </Data>
+        <Data name="id_municipio">
+          <value>107.0</value>
+        </Data>
+        <Data name="localidad">
+          <value>Zacapu</value>
+        </Data>
+        <Data name="municipio">
+          <value>Zacapu</value>
+        </Data>
+        <Data name="restaurantes y servicios de comida">
+          <value>0.0</value>
+        </Data>
+        <Data name="restaurantes y servicios de comida_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="supermercados cadenas">
+          <value>0.0</value>
+        </Data>
+        <Data name="supermercados cadenas_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="supermercados y tiendas de abarrotes">
+          <value>7.0</value>
+        </Data>
+        <Data name="supermercados y tiendas de abarrotes_porcentaje">
+          <value>63.64</value>
+        </Data>
+        <Data name="tiendas conveniencia cadena">
+          <value>0.0</value>
+        </Data>
+        <Data name="tiendas conveniencia cadena_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="tiendas varias">
+          <value>1.0</value>
+        </Data>
+        <Data name="tiendas varias_porcentaje">
+          <value>9.09</value>
+        </Data>
+        <Data name="totales">
+          <value>11.0</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-101.79265298025567,19.820785600213423,0 -101.79313709014268,19.82159300042848,0 -101.79385643042679,19.82286291968402,0 -101.79391718000086,19.82320257000878,0 -101.79334511966645,19.823118820394768,0 -101.79295792038033,19.823027430291642,0 -101.79225413973107,19.82279430991143,0 -101.79161181973221,19.82244977992647,0 -101.79053868038467,19.821907740237943,0 -101.78945552000184,19.821301490037428,0 -101.78865282010764,19.82089331988101,0 -101.78834703033819,19.821446860088958,0 -101.78727857992958,19.820925030350736,0 -101.78758974962669,19.82035928025463,0 -101.7878996503615,19.81975997012461,0 -101.78822939989014,19.819174459952148,0 -101.78836165007053,19.818931250087363,0 -101.78880694953958,19.81816125956074,0 -101.78914564954755,19.818368149756783,0 -101.7898105200424,19.818774309700274,0 -101.79040930971172,19.81774211991773,0 -101.7910301501267,19.816718200072497,0 -101.79161495014661,19.815770339719347,0 -101.7919371100222,19.815242889677656,0 -101.79255499954607,19.8159047703236,0 -101.79316097987157,19.816267650357734,0 -101.79322589031281,19.81633417027146,0 -101.7932651500285,19.816407120382657,0 -101.79378383005825,19.816753940278442,0 -101.79320959984348,19.817780420321217,0 -101.7927688002268,19.818416149976404,0 -101.79247272020075,19.8188814604288,0 -101.79245986012825,19.819307740054185,0 -101.79251325032435,19.81945804978967,0 -101.79258813999296,19.819892909972243,0 -101.7925608495244,19.820210349834205,0 -101.79259528026792,19.820715649899544,0 -101.79265298025567,19.820785600213423,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="CVE_AGEB">
+          <value>0154</value>
+        </Data>
+        <Data name="CVE_LOC">
+          <value>1.0</value>
+        </Data>
+        <Data name="caso">
+          <value>2</value>
+        </Data>
+        <Data name="columnas_contribuyentes">
+          <value>supermercados y tiendas de abarrotes_porcentaje, farmacias_porcentaje</value>
+        </Data>
+        <Data name="comercio al por mayor">
+          <value>0.0</value>
+        </Data>
+        <Data name="comercio al por mayor_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="entidad">
+          <value>Michoac&#225;n de Ocampo</value>
+        </Data>
+        <Data name="farmacias">
+          <value>2.0</value>
+        </Data>
+        <Data name="farmacias_porcentaje">
+          <value>22.22</value>
+        </Data>
+        <Data name="id_entidad">
+          <value>16.0</value>
+        </Data>
+        <Data name="id_municipio">
+          <value>107.0</value>
+        </Data>
+        <Data name="localidad">
+          <value>Zacapu</value>
+        </Data>
+        <Data name="municipio">
+          <value>Zacapu</value>
+        </Data>
+        <Data name="restaurantes y servicios de comida">
+          <value>0.0</value>
+        </Data>
+        <Data name="restaurantes y servicios de comida_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="supermercados cadenas">
+          <value>0.0</value>
+        </Data>
+        <Data name="supermercados cadenas_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="supermercados y tiendas de abarrotes">
+          <value>6.0</value>
+        </Data>
+        <Data name="supermercados y tiendas de abarrotes_porcentaje">
+          <value>66.67</value>
+        </Data>
+        <Data name="tiendas conveniencia cadena">
+          <value>1.0</value>
+        </Data>
+        <Data name="tiendas conveniencia cadena_porcentaje">
+          <value>11.11</value>
+        </Data>
+        <Data name="tiendas varias">
+          <value>0.0</value>
+        </Data>
+        <Data name="tiendas varias_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="totales">
+          <value>9.0</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-101.79572846047355,19.816310280405972,0 -101.79608509040224,19.815402649638692,0 -101.79612462979125,19.81492171003046,0 -101.79609717967016,19.814645860184964,0 -101.7959543396754,19.814210140324963,0 -101.79587675028819,19.81396377013748,0 -101.79571711970755,19.813762679899707,0 -101.79495913989389,19.81337702028926,0 -101.79510825969139,19.81306954035967,0 -101.79540952038555,19.812941480186804,0 -101.79573593979391,19.812852420312105,0 -101.79619382975588,19.8128508198241,0 -101.79710126010391,19.8133373400499,0 -101.79747112000497,19.813577200091448,0 -101.79791384991155,19.8138709799261,0 -101.79835515006924,19.812890200113827,0 -101.7986816803244,19.81212256964421,0 -101.79873534955074,19.811980220198677,0 -101.7993897396041,19.81221640045057,0 -101.79999587972786,19.812451879792476,0 -101.80065279955019,19.812692709561492,0 -101.80104162991168,19.811763850162546,0 -101.80174950987875,19.812017649616212,0 -101.8021119201248,19.812148849973333,0 -101.80252961997523,19.81230073979252,0 -101.80294467985544,19.81245168966862,0 -101.80258483003185,19.813371920114008,0 -101.80241557023837,19.81377474032513,0 -101.80221421965815,19.814303120011576,0 -101.80211603037488,19.814518429841165,0 -101.80194689035443,19.814911399626048,0 -101.80147953996612,19.816074650090957,0 -101.80141914017769,19.816208510366987,0 -101.80067168990709,19.81577160018772,0 -101.79978860045543,19.817218599948657,0 -101.79929887972918,19.818066420395557,0 -101.7990267498273,19.818545379973468,0 -101.79887613955809,19.81883815015886,0 -101.79975181985928,19.819175920391103,0 -101.80040637022476,19.81945618006452,0 -101.79980372018471,19.819558680196163,0 -101.79920197037114,19.8197091503801,0 -101.798860969797,19.819818689611022,0 -101.79844928033657,19.819550399719112,0 -101.79839551995707,19.819537830092006,0 -101.79800348987476,19.81917235020759,0 -101.79776665999145,19.819064019801218,0 -101.79699011041727,19.818719519611307,0 -101.7962566303461,19.818362780205266,0 -101.7961080602655,19.818291979565288,0 -101.79566741976922,19.8180308900822,0 -101.79472562954705,19.817398140352818,0 -101.79509734972035,19.81695587987519,0 -101.79572846047355,19.816310280405972,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="CVE_AGEB">
+          <value>0169</value>
+        </Data>
+        <Data name="CVE_LOC">
+          <value>1.0</value>
+        </Data>
+        <Data name="caso">
+          <value>2</value>
+        </Data>
+        <Data name="columnas_contribuyentes">
+          <value>supermercados y tiendas de abarrotes_porcentaje, farmacias_porcentaje</value>
+        </Data>
+        <Data name="comercio al por mayor">
+          <value>0.0</value>
+        </Data>
+        <Data name="comercio al por mayor_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="entidad">
+          <value>Michoac&#225;n de Ocampo</value>
+        </Data>
+        <Data name="farmacias">
+          <value>2.0</value>
+        </Data>
+        <Data name="farmacias_porcentaje">
+          <value>12.5</value>
+        </Data>
+        <Data name="id_entidad">
+          <value>16.0</value>
+        </Data>
+        <Data name="id_municipio">
+          <value>107.0</value>
+        </Data>
+        <Data name="localidad">
+          <value>Zacapu</value>
+        </Data>
+        <Data name="municipio">
+          <value>Zacapu</value>
+        </Data>
+        <Data name="restaurantes y servicios de comida">
+          <value>0.0</value>
+        </Data>
+        <Data name="restaurantes y servicios de comida_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="supermercados cadenas">
+          <value>1.0</value>
+        </Data>
+        <Data name="supermercados cadenas_porcentaje">
+          <value>6.25</value>
+        </Data>
+        <Data name="supermercados y tiendas de abarrotes">
+          <value>12.0</value>
+        </Data>
+        <Data name="supermercados y tiendas de abarrotes_porcentaje">
+          <value>75.0</value>
+        </Data>
+        <Data name="tiendas conveniencia cadena">
+          <value>1.0</value>
+        </Data>
+        <Data name="tiendas conveniencia cadena_porcentaje">
+          <value>6.25</value>
+        </Data>
+        <Data name="tiendas varias">
+          <value>0.0</value>
+        </Data>
+        <Data name="tiendas varias_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="totales">
+          <value>16.0</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-101.7890557704237,19.809461489557542,0 -101.78949600036037,19.809665399657817,0 -101.78979914019705,19.809803540414787,0 -101.79023833980075,19.810005710382566,0 -101.79045222959277,19.81010052033341,0 -101.79071102000673,19.81020977980359,0 -101.79114628006809,19.81041222003493,0 -101.79136256967352,19.8105141697489,0 -101.79170003020178,19.81067199974722,0 -101.79214934987687,19.810892680096376,0 -101.79275198030572,19.811200629915515,0 -101.7937808497775,19.811651080240416,0 -101.79470387977615,19.812104520114147,0 -101.79538530996226,19.81241094957774,0 -101.79567608986974,19.812545659714793,0 -101.79619382975588,19.8128508198241,0 -101.79573593979391,19.812852420312105,0 -101.79540952038555,19.812941480186804,0 -101.79510825969139,19.81306954035967,0 -101.79495913989389,19.81337702028926,0 -101.79571711970755,19.813762679899707,0 -101.79587675028819,19.81396377013748,0 -101.7959543396754,19.814210140324963,0 -101.79609717967016,19.814645860184964,0 -101.79612462979125,19.81492171003046,0 -101.79608509040224,19.815402649638692,0 -101.79572846047355,19.816310280405972,0 -101.79509734972035,19.81695587987519,0 -101.79472562954705,19.817398140352818,0 -101.79388928984172,19.816824350009917,0 -101.79378383005825,19.816753940278442,0 -101.7932651500285,19.816407120382657,0 -101.79322589031281,19.81633417027146,0 -101.79316097987157,19.816267650357734,0 -101.79255499954607,19.8159047703236,0 -101.7919371100222,19.815242889677656,0 -101.79102594021468,19.814308849632944,0 -101.79040801994762,19.813712999728775,0 -101.79013957007805,19.813434879586236,0 -101.7898435497897,19.813161979614115,0 -101.78907909035446,19.81244150965853,0 -101.78869177009108,19.81204998002378,0 -101.7882731197216,19.81165890972446,0 -101.78804475023506,19.811441749982333,0 -101.7877064000971,19.81112002958499,0 -101.78727871964792,19.810709459895783,0 -101.7861206002626,19.809612379751822,0 -101.78578122994503,19.80929114001152,0 -101.78543581973578,19.808983570052852,0 -101.78510783031258,19.808699420323105,0 -101.78478488965591,19.80840648984505,0 -101.78448191960665,19.808105060010767,0 -101.78606229031182,19.80870476975562,0 -101.78690002955554,19.80895152029463,0 -101.7890557704237,19.809461489557542,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="CVE_AGEB">
+          <value>0188</value>
+        </Data>
+        <Data name="CVE_LOC">
+          <value>1.0</value>
+        </Data>
+        <Data name="caso">
+          <value>2</value>
+        </Data>
+        <Data name="columnas_contribuyentes">
+          <value>supermercados y tiendas de abarrotes_porcentaje, comercio al por mayor_porcentaje</value>
+        </Data>
+        <Data name="comercio al por mayor">
+          <value>3.0</value>
+        </Data>
+        <Data name="comercio al por mayor_porcentaje">
+          <value>30.0</value>
+        </Data>
+        <Data name="entidad">
+          <value>Michoac&#225;n de Ocampo</value>
+        </Data>
+        <Data name="farmacias">
+          <value>1.0</value>
+        </Data>
+        <Data name="farmacias_porcentaje">
+          <value>10.0</value>
+        </Data>
+        <Data name="id_entidad">
+          <value>16.0</value>
+        </Data>
+        <Data name="id_municipio">
+          <value>107.0</value>
+        </Data>
+        <Data name="localidad">
+          <value>Zacapu</value>
+        </Data>
+        <Data name="municipio">
+          <value>Zacapu</value>
+        </Data>
+        <Data name="restaurantes y servicios de comida">
+          <value>0.0</value>
+        </Data>
+        <Data name="restaurantes y servicios de comida_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="supermercados cadenas">
+          <value>0.0</value>
+        </Data>
+        <Data name="supermercados cadenas_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="supermercados y tiendas de abarrotes">
+          <value>6.0</value>
+        </Data>
+        <Data name="supermercados y tiendas de abarrotes_porcentaje">
+          <value>60.0</value>
+        </Data>
+        <Data name="tiendas conveniencia cadena">
+          <value>0.0</value>
+        </Data>
+        <Data name="tiendas conveniencia cadena_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="tiendas varias">
+          <value>0.0</value>
+        </Data>
+        <Data name="tiendas varias_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="totales">
+          <value>10.0</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-101.80128424963897,19.807198060093786,0 -101.80133291007077,19.807255539842682,0 -101.80074722017822,19.808492689967874,0 -101.80008649007922,19.809799940001074,0 -101.80004728032132,19.8098804196312,0 -101.8002928600075,19.809927980084375,0 -101.80097482032998,19.81005098043858,0 -101.80162230967605,19.810206580230744,0 -101.80151078030828,19.81058348975271,0 -101.80137502955144,19.810951950082366,0 -101.80104162991168,19.811763850162546,0 -101.80065279955019,19.812692709561492,0 -101.79999587972786,19.812451879792476,0 -101.7993897396041,19.81221640045057,0 -101.79873534955074,19.811980220198677,0 -101.7986816803244,19.81212256964421,0 -101.79835515006924,19.812890200113827,0 -101.79791384991155,19.8138709799261,0 -101.79747112000497,19.813577200091448,0 -101.79710126010391,19.8133373400499,0 -101.79619382975588,19.8128508198241,0 -101.79567608986974,19.812545659714793,0 -101.79589539954651,19.812038490386104,0 -101.79599389037402,19.811819720442582,0 -101.79639871952797,19.81102488021614,0 -101.79692442030525,19.80992496995878,0 -101.79717084980894,19.809415320379355,0 -101.7975663697485,19.808630800075285,0 -101.79820970997562,19.807343030012657,0 -101.79884608018058,19.80608146008643,0 -101.79955886007572,19.80642680023688,0 -101.80015362990093,19.8067146000852,0 -101.80081755016555,19.80701109005728,0 -101.80128424963897,19.807198060093786,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="CVE_AGEB">
+          <value>0205</value>
+        </Data>
+        <Data name="CVE_LOC">
+          <value>1.0</value>
+        </Data>
+        <Data name="caso">
+          <value>2</value>
+        </Data>
+        <Data name="columnas_contribuyentes">
+          <value>supermercados y tiendas de abarrotes_porcentaje, farmacias_porcentaje</value>
+        </Data>
+        <Data name="comercio al por mayor">
+          <value>0.0</value>
+        </Data>
+        <Data name="comercio al por mayor_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="entidad">
+          <value>Michoac&#225;n de Ocampo</value>
+        </Data>
+        <Data name="farmacias">
+          <value>1.0</value>
+        </Data>
+        <Data name="farmacias_porcentaje">
+          <value>33.33</value>
+        </Data>
+        <Data name="id_entidad">
+          <value>16.0</value>
+        </Data>
+        <Data name="id_municipio">
+          <value>107.0</value>
+        </Data>
+        <Data name="localidad">
+          <value>Zacapu</value>
+        </Data>
+        <Data name="municipio">
+          <value>Zacapu</value>
+        </Data>
+        <Data name="restaurantes y servicios de comida">
+          <value>0.0</value>
+        </Data>
+        <Data name="restaurantes y servicios de comida_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="supermercados cadenas">
+          <value>0.0</value>
+        </Data>
+        <Data name="supermercados cadenas_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="supermercados y tiendas de abarrotes">
+          <value>2.0</value>
+        </Data>
+        <Data name="supermercados y tiendas de abarrotes_porcentaje">
+          <value>66.67</value>
+        </Data>
+        <Data name="tiendas conveniencia cadena">
+          <value>0.0</value>
+        </Data>
+        <Data name="tiendas conveniencia cadena_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="tiendas varias">
+          <value>0.0</value>
+        </Data>
+        <Data name="tiendas varias_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="totales">
+          <value>3.0</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-101.76893396990127,19.827776019903187,0 -101.77040406027007,19.827817780039798,0 -101.77095188030393,19.827833629679297,0 -101.77281983042738,19.827924549718592,0 -101.77371860038012,19.82797441977383,0 -101.77403413969834,19.82801891036003,0 -101.7735487195528,19.828966149949355,0 -101.77184292003666,19.832399679738458,0 -101.7715685496812,19.832922369875476,0 -101.77114701958973,19.83361321977369,0 -101.77076028999477,19.833646520040375,0 -101.77019903041244,19.834736369929544,0 -101.77013372035894,19.834850689954596,0 -101.76934859975044,19.836138889938002,0 -101.76830530959175,19.838178289979535,0 -101.76779280004972,19.83905046024148,0 -101.76769733968996,19.838907823171905,0 -101.76722553987803,19.83985169020978,0 -101.76722023045265,19.84012749022478,0 -101.7672181797199,19.840131340190723,0 -101.76648805004315,19.841504779617058,0 -101.76528834020743,19.843862459663093,0 -101.7652219102769,19.843866690303862,0 -101.76501322975655,19.84383695043232,0 -101.76453631043984,19.84387374997826,0 -101.76443491970473,19.843881750083515,0 -101.76425203014438,19.840221480084622,0 -101.76141832007475,19.840408450080165,0 -101.76160225036354,19.842237650161156,0 -101.76030113958522,19.84233551464477,0 -101.7602622802215,19.84205852044616,0 -101.7605993196767,19.842024579912376,0 -101.76035054015469,19.84027876970855,0 -101.76024591010139,19.839581510355885,0 -101.76022851035339,19.839444780236256,0 -101.75941660006313,19.83950771038729,0 -101.75876699982646,19.839532079774667,0 -101.75801431993033,19.839561710279103,0 -101.75792161992317,19.83878682018569,0 -101.76006546021469,19.83869740010477,0 -101.75985592007164,19.836894770442807,0 -101.75995843000238,19.83686912039119,0 -101.76028055011118,19.83680333979977,0 -101.76086177037848,19.836701860247004,0 -101.76153477974299,19.836500599686826,0 -101.76188848977276,19.836393110328185,0 -101.7621256201364,19.836378519854332,0 -101.76238682995323,19.836400110322018,0 -101.76257605021765,19.83641662958268,0 -101.76260190961908,19.83642754959506,0 -101.76271821998364,19.83647668996167,0 -101.76281300038201,19.83650677032932,0 -101.76297070459077,19.836510540218875,0 -101.76306357021862,19.836544510419756,0 -101.76326111999337,19.836567259745333,0 -101.76377024963101,19.836575150343766,0 -101.76379854026908,19.836575579655406,0 -101.76391973955933,19.836573280424187,0 -101.76452569002835,19.836561750112647,0 -101.76468659698766,19.836555832881366,0 -101.7663542197821,19.83648665957773,0 -101.76731237969567,19.83603488988616,0 -101.76745015015844,19.83461395022999,0 -101.76748221969882,19.833817910205166,0 -101.76748616959966,19.833719650204575,0 -101.76752661980377,19.832947080351907,0 -101.76757146034687,19.831929480314216,0 -101.76763214014264,19.830551909589722,0 -101.76763601994804,19.830426779766512,0 -101.76764505035062,19.830136919986145,0 -101.76766309034029,19.829673920450766,0 -101.76767808968138,19.82922069009457,0 -101.76771428987004,19.828814519675486,0 -101.76766667966233,19.827740000321167,0 -101.76893396990127,19.827776019903187,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="CVE_AGEB">
+          <value>021A</value>
+        </Data>
+        <Data name="CVE_LOC">
+          <value>1.0</value>
+        </Data>
+        <Data name="caso">
+          <value>1</value>
+        </Data>
+        <Data name="columnas_contribuyentes">
+          <value>supermercados y tiendas de abarrotes_porcentaje</value>
+        </Data>
+        <Data name="comercio al por mayor">
+          <value>0.0</value>
+        </Data>
+        <Data name="comercio al por mayor_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="entidad">
+          <value>Michoac&#225;n de Ocampo</value>
+        </Data>
+        <Data name="farmacias">
+          <value>0.0</value>
+        </Data>
+        <Data name="farmacias_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="id_entidad">
+          <value>16.0</value>
+        </Data>
+        <Data name="id_municipio">
+          <value>107.0</value>
+        </Data>
+        <Data name="localidad">
+          <value>Zacapu</value>
+        </Data>
+        <Data name="municipio">
+          <value>Zacapu</value>
+        </Data>
+        <Data name="restaurantes y servicios de comida">
+          <value>0.0</value>
+        </Data>
+        <Data name="restaurantes y servicios de comida_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="supermercados cadenas">
+          <value>0.0</value>
+        </Data>
+        <Data name="supermercados cadenas_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="supermercados y tiendas de abarrotes">
+          <value>1.0</value>
+        </Data>
+        <Data name="supermercados y tiendas de abarrotes_porcentaje">
+          <value>100.0</value>
+        </Data>
+        <Data name="tiendas conveniencia cadena">
+          <value>0.0</value>
+        </Data>
+        <Data name="tiendas conveniencia cadena_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="tiendas varias">
+          <value>0.0</value>
+        </Data>
+        <Data name="tiendas varias_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="totales">
+          <value>1.0</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-101.77640837005394,19.833815520409377,0 -101.77752838030563,19.8321458304019,0 -101.77827308042446,19.831846829840295,0 -101.77873577979267,19.83174068021298,0 -101.77998667954647,19.831472450156753,0 -101.78078007987006,19.831378490094732,0 -101.78139215039482,19.8314268003543,0 -101.7818335701168,19.831461630139707,0 -101.78206381967958,19.83149505023484,0 -101.78237584985789,19.831578980234976,0 -101.78320423041819,19.831873220177894,0 -101.78356930993097,19.831456000221067,0 -101.78399868044114,19.830988569976476,0 -101.78445092036867,19.8305424497548,0 -101.78499863010987,19.830103780256476,0 -101.78511383025739,19.829989519696987,0 -101.78555188995634,19.829672830229892,0 -101.7858257797979,19.829566849655173,0 -101.78626866001143,19.829427139958877,0 -101.78668418012055,19.829383920345542,0 -101.78702033956732,19.82937617033041,0 -101.7878713097027,19.829772059630503,0 -101.7879792801409,19.8298131198395,0 -101.78884726035332,19.829753150125235,0 -101.78893489015263,19.829831679680588,0 -101.78860384988498,19.8301901199314,0 -101.78812482015216,19.830314799722462,0 -101.78782960005009,19.830180580448307,0 -101.78761734993486,19.830208780156084,0 -101.78737237968046,19.83024131970176,0 -101.78696058042372,19.830324059772707,0 -101.78660160039858,19.830462880055894,0 -101.78639074030768,19.8305409996218,0 -101.78626928015835,19.830864680042637,0 -101.78611196952683,19.83108353981696,0 -101.7857673699333,19.831379720367572,0 -101.7856053400682,19.831590430013705,0 -101.78544758034963,19.83181465991813,0 -101.78541562978319,19.832123820326263,0 -101.78527237021846,19.832364090322976,0 -101.78524303031341,19.8325266795871,0 -101.78524521978686,19.83286634525063,0 -101.78519380042373,19.833036350245436,0 -101.78566568991579,19.833412289727185,0 -101.78569375003426,19.833694200445965,0 -101.78580465969776,19.833994999820412,0 -101.78581633966128,19.83424625041548,0 -101.78573859959813,19.83442855015938,0 -101.78563520009729,19.834156910036356,0 -101.78554608046933,19.83394227979369,0 -101.78536424953344,19.833710859620943,0 -101.78508142043162,19.83401559986043,0 -101.78467971960674,19.83383673971728,0 -101.78427483014417,19.83363141992385,0 -101.78393104965475,19.833427580257748,0 -101.78367672043312,19.833250949753072,0 -101.78358403003045,19.833190580176872,0 -101.78322869007329,19.832969690419166,0 -101.78288763019972,19.832747890371135,0 -101.78260953955088,19.832577980420552,0 -101.78217506024505,19.83309580027251,0 -101.78123594979682,19.83421994968299,0 -101.78109285038337,19.834404850130174,0 -101.78087363025276,19.834753630334582,0 -101.78062745045538,19.835104679919763,0 -101.78019071002242,19.83580894999998,0 -101.77988712019115,19.836287569931812,0 -101.77975708008498,19.836216880434986,0 -101.77742516964608,19.83471548012324,0 -101.77656427972772,19.834161169893314,0 -101.77645158020972,19.834064980046225,0 -101.77640403009123,19.833992250436072,0 -101.77638612025298,19.83391905968805,0 -101.77640837005394,19.833815520409377,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="CVE_AGEB">
+          <value>0239</value>
+        </Data>
+        <Data name="CVE_LOC">
+          <value>1.0</value>
+        </Data>
+        <Data name="caso">
+          <value>1</value>
+        </Data>
+        <Data name="columnas_contribuyentes">
+          <value>supermercados y tiendas de abarrotes_porcentaje</value>
+        </Data>
+        <Data name="comercio al por mayor">
+          <value>0.0</value>
+        </Data>
+        <Data name="comercio al por mayor_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="entidad">
+          <value>Michoac&#225;n de Ocampo</value>
+        </Data>
+        <Data name="farmacias">
+          <value>0.0</value>
+        </Data>
+        <Data name="farmacias_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="id_entidad">
+          <value>16.0</value>
+        </Data>
+        <Data name="id_municipio">
+          <value>107.0</value>
+        </Data>
+        <Data name="localidad">
+          <value>Zacapu</value>
+        </Data>
+        <Data name="municipio">
+          <value>Zacapu</value>
+        </Data>
+        <Data name="restaurantes y servicios de comida">
+          <value>0.0</value>
+        </Data>
+        <Data name="restaurantes y servicios de comida_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="supermercados cadenas">
+          <value>0.0</value>
+        </Data>
+        <Data name="supermercados cadenas_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="supermercados y tiendas de abarrotes">
+          <value>6.0</value>
+        </Data>
+        <Data name="supermercados y tiendas de abarrotes_porcentaje">
+          <value>100.0</value>
+        </Data>
+        <Data name="tiendas conveniencia cadena">
+          <value>0.0</value>
+        </Data>
+        <Data name="tiendas conveniencia cadena_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="tiendas varias">
+          <value>0.0</value>
+        </Data>
+        <Data name="tiendas varias_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="totales">
+          <value>6.0</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-101.80907484956646,19.82101895016911,0 -101.80875342972413,19.820790969906103,0 -101.80841833962265,19.820796720048037,0 -101.80779428023499,19.82079502980474,0 -101.80776664972858,19.82079531018044,0 -101.80747084976281,19.8207291801264,0 -101.80656221994909,19.820368369863537,0 -101.8060695803604,19.820219419596405,0 -101.80327783027063,19.819348000041852,0 -101.80312378015122,19.81932071998605,0 -101.8022136599732,19.819362800182212,0 -101.8017729196294,19.8193465701783,0 -101.80126966007316,19.81940035023906,0 -101.80058080010915,19.819449290057964,0 -101.80040637022476,19.81945618006452,0 -101.79975181985928,19.819175920391103,0 -101.79887613955809,19.81883815015886,0 -101.7990267498273,19.818545379973468,0 -101.79929887972918,19.818066420395557,0 -101.79978860045543,19.817218599948657,0 -101.80067168990709,19.81577160018772,0 -101.80141914017769,19.816208510366987,0 -101.80147953996612,19.816074650090957,0 -101.80194689035443,19.814911399626048,0 -101.80211603037488,19.814518429841165,0 -101.80221421965815,19.814303120011576,0 -101.80241557023837,19.81377474032513,0 -101.80258483003185,19.813371920114008,0 -101.80294467985544,19.81245168966862,0 -101.80339804952608,19.811225200207204,0 -101.80400887991404,19.811397739674124,0 -101.80451148998627,19.811529519715712,0 -101.80485152023705,19.81172417984748,0 -101.80528916973657,19.811966689955607,0 -101.80616915044709,19.811067059957995,0 -101.80631053980659,19.8105715803982,0 -101.80649926009356,19.810044599626767,0 -101.80656537997142,19.81010830972125,0 -101.80675299993526,19.81009811038377,0 -101.8068927196078,19.81008205986063,0 -101.80700784980026,19.81011466017713,0 -101.80712100023091,19.810182520391162,0 -101.806675570014,19.81090303025114,0 -101.80656868039053,19.8113137402513,0 -101.80638787994356,19.81162431015186,0 -101.80605862971908,19.81214925014062,0 -101.8057749999133,19.812679910308386,0 -101.80573087981593,19.81279445968189,0 -101.8061829801368,19.812965919671292,0 -101.80662300014008,19.81314285013328,0 -101.80663013955851,19.81315778002714,0 -101.80695699981955,19.813842770195684,0 -101.80704778040229,19.813990860180333,0 -101.80707859957927,19.81404114992708,0 -101.80728117028501,19.814444139660374,0 -101.80773114010846,19.814900480135712,0 -101.80791936986374,19.81508255024446,0 -101.80798070956244,19.81533075018906,0 -101.80792254953074,19.815654369961685,0 -101.80791368020598,19.815675309684188,0 -101.80783745029649,19.815855090435285,0 -101.80771403029846,19.816080420350115,0 -101.80751309039567,19.81650693979768,0 -101.80681112023171,19.81814502017779,0 -101.80756477042142,19.81863172009154,0 -101.80791922079715,19.818855251322177,0 -101.80872436998717,19.819380570414598,0 -101.80963649009777,19.82026772044322,0 -101.80998691018922,19.82041949006019,0 -101.80987191993384,19.820693889562673,0 -101.80950159996928,19.821136600241196,0 -101.80924645043277,19.821138430148412,0 -101.80907484956646,19.82101895016911,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="CVE_AGEB">
+          <value>0243</value>
+        </Data>
+        <Data name="CVE_LOC">
+          <value>1.0</value>
+        </Data>
+        <Data name="caso">
+          <value>1</value>
+        </Data>
+        <Data name="columnas_contribuyentes">
+          <value>supermercados y tiendas de abarrotes_porcentaje</value>
+        </Data>
+        <Data name="comercio al por mayor">
+          <value>0.0</value>
+        </Data>
+        <Data name="comercio al por mayor_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="entidad">
+          <value>Michoac&#225;n de Ocampo</value>
+        </Data>
+        <Data name="farmacias">
+          <value>0.0</value>
+        </Data>
+        <Data name="farmacias_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="id_entidad">
+          <value>16.0</value>
+        </Data>
+        <Data name="id_municipio">
+          <value>107.0</value>
+        </Data>
+        <Data name="localidad">
+          <value>Zacapu</value>
+        </Data>
+        <Data name="municipio">
+          <value>Zacapu</value>
+        </Data>
+        <Data name="restaurantes y servicios de comida">
+          <value>0.0</value>
+        </Data>
+        <Data name="restaurantes y servicios de comida_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="supermercados cadenas">
+          <value>0.0</value>
+        </Data>
+        <Data name="supermercados cadenas_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="supermercados y tiendas de abarrotes">
+          <value>3.0</value>
+        </Data>
+        <Data name="supermercados y tiendas de abarrotes_porcentaje">
+          <value>100.0</value>
+        </Data>
+        <Data name="tiendas conveniencia cadena">
+          <value>0.0</value>
+        </Data>
+        <Data name="tiendas conveniencia cadena_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="tiendas varias">
+          <value>0.0</value>
+        </Data>
+        <Data name="tiendas varias_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="totales">
+          <value>3.0</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-101.80104162991168,19.811763850162546,0 -101.80137502955144,19.810951950082366,0 -101.80151078030828,19.81058348975271,0 -101.80162230967605,19.810206580230744,0 -101.80097482032998,19.81005098043858,0 -101.8002928600075,19.809927980084375,0 -101.80004728032132,19.8098804196312,0 -101.80008649007922,19.809799940001074,0 -101.80074722017822,19.808492689967874,0 -101.80133291007077,19.807255539842682,0 -101.80128424963897,19.807198060093786,0 -101.80081755016555,19.80701109005728,0 -101.80015362990093,19.8067146000852,0 -101.79955886007572,19.80642680023688,0 -101.79884608018058,19.80608146008643,0 -101.79926802990514,19.805231449766797,0 -101.79947892103245,19.804879614206477,0 -101.79947882025785,19.804859020444063,0 -101.7995537504758,19.804944679989298,0 -101.80036817983436,19.80474034000716,0 -101.80103923004899,19.804542279888736,0 -101.80123918005725,19.804481649669484,0 -101.80191989005304,19.804303399826182,0 -101.80207915015326,19.804260059601148,0 -101.80226814969544,19.804240200354137,0 -101.80245713959287,19.804220349922968,0 -101.80261556971853,19.804214819966113,0 -101.80291934953604,19.804212400182557,0 -101.80338598045918,19.804202710008067,0 -101.80387308018923,19.80419933962498,0 -101.80438958003114,19.80418608995266,0 -101.80447372000988,19.80418573992226,0 -101.80478646037244,19.804189919980605,0 -101.8046816197836,19.804476749559196,0 -101.80449938034425,19.805043739737314,0 -101.8044106200716,19.805309350242595,0 -101.8044330896168,19.805400109623164,0 -101.80453199977941,19.805517650269337,0 -101.80469097956345,19.80587054035405,0 -101.80483645002177,19.8059161496422,0 -101.80494494008197,19.805975149955213,0 -101.80502842963118,19.806120380065618,0 -101.80505559968265,19.80631528025899,0 -101.80504203029712,19.806605659615148,0 -101.80508772023367,19.80676471044478,0 -101.80534891038386,19.80697865984116,0 -101.80549631045156,19.80714224981588,0 -101.80558728007065,19.807434939807273,0 -101.80595752036986,19.80760419989672,0 -101.80654955038833,19.807875509911565,0 -101.8061934901522,19.808616709943664,0 -101.80585251044657,19.80933234027182,0 -101.80606144977385,19.80941141974877,0 -101.80623736967794,19.809525509835208,0 -101.80624654971902,19.809586690038753,0 -101.80624175038737,19.809727219932597,0 -101.80623947015563,19.809794320433838,0 -101.80628292028528,19.809836199719904,0 -101.80649926009356,19.810044599626767,0 -101.80631053980659,19.8105715803982,0 -101.80616915044709,19.811067059957995,0 -101.80528916973657,19.811966689955607,0 -101.80485152023705,19.81172417984748,0 -101.80451148998627,19.811529519715712,0 -101.80400887991404,19.811397739674124,0 -101.80339804952608,19.811225200207204,0 -101.80294467985544,19.81245168966862,0 -101.80252961997523,19.81230073979252,0 -101.8021119201248,19.812148849973333,0 -101.80174950987875,19.812017649616212,0 -101.80104162991168,19.811763850162546,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="CVE_AGEB">
+          <value>0262</value>
+        </Data>
+        <Data name="CVE_LOC">
+          <value>1.0</value>
+        </Data>
+        <Data name="caso">
+          <value>2</value>
+        </Data>
+        <Data name="columnas_contribuyentes">
+          <value>supermercados y tiendas de abarrotes_porcentaje, farmacias_porcentaje</value>
+        </Data>
+        <Data name="comercio al por mayor">
+          <value>0.0</value>
+        </Data>
+        <Data name="comercio al por mayor_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="entidad">
+          <value>Michoac&#225;n de Ocampo</value>
+        </Data>
+        <Data name="farmacias">
+          <value>2.0</value>
+        </Data>
+        <Data name="farmacias_porcentaje">
+          <value>33.33</value>
+        </Data>
+        <Data name="id_entidad">
+          <value>16.0</value>
+        </Data>
+        <Data name="id_municipio">
+          <value>107.0</value>
+        </Data>
+        <Data name="localidad">
+          <value>Zacapu</value>
+        </Data>
+        <Data name="municipio">
+          <value>Zacapu</value>
+        </Data>
+        <Data name="restaurantes y servicios de comida">
+          <value>0.0</value>
+        </Data>
+        <Data name="restaurantes y servicios de comida_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="supermercados cadenas">
+          <value>0.0</value>
+        </Data>
+        <Data name="supermercados cadenas_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="supermercados y tiendas de abarrotes">
+          <value>4.0</value>
+        </Data>
+        <Data name="supermercados y tiendas de abarrotes_porcentaje">
+          <value>66.67</value>
+        </Data>
+        <Data name="tiendas conveniencia cadena">
+          <value>0.0</value>
+        </Data>
+        <Data name="tiendas conveniencia cadena_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="tiendas varias">
+          <value>0.0</value>
+        </Data>
+        <Data name="tiendas varias_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="totales">
+          <value>6.0</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-101.795045710182,19.80124311986029,0 -101.79305795016877,19.800186520187516,0 -101.79281455030096,19.80007728956829,0 -101.7927549501918,19.799937939573876,0 -101.79259471976177,19.799409350243206,0 -101.79254742982859,19.799076549940157,0 -101.79252045012956,19.798909519867305,0 -101.79251400009261,19.798866079864386,0 -101.79260920041321,19.798704939879936,0 -101.79257394032048,19.798575569758082,0 -101.79252461963506,19.798504689818504,0 -101.79245984958132,19.798411649860743,0 -101.79205924985555,19.79794525956345,0 -101.79200325013159,19.79789273960204,0 -101.79189065043128,19.797868260011697,0 -101.79130114953486,19.797861630371365,0 -101.79111521969948,19.797837250400956,0 -101.79092666033058,19.79778679956173,0 -101.79059226038288,19.797634089588637,0 -101.79052591984367,19.797591850185704,0 -101.79050151033832,19.797492370266312,0 -101.79050182957542,19.797381690174635,0 -101.79034312031432,19.797309279749605,0 -101.79023988975608,19.797098680316964,0 -101.79007367974917,19.796938650226142,0 -101.78984871983789,19.796816280351194,0 -101.78971421981517,19.796775000179515,0 -101.78962388003801,19.796800800372598,0 -101.78950231976538,19.796822580025104,0 -101.78941784962358,19.796800399977794,0 -101.7893424299564,19.796758859874036,0 -101.7889985199712,19.796397820445215,0 -101.78885834954586,19.79631918045042,0 -101.78871991960057,19.796271659981187,0 -101.78853686038723,19.796185779689772,0 -101.78836195039075,19.79603478030767,0 -101.788151459935,19.795950229859965,0 -101.78789621988867,19.79588439993263,0 -101.7877101701702,19.795870830368195,0 -101.78734448021925,19.79595105991151,0 -101.78802069047069,19.795246420437998,0 -101.78849390996515,19.794771779719053,0 -101.7888317703165,19.794430449703118,0 -101.78901365000948,19.794253570356908,0 -101.78953158009982,19.793766260217133,0 -101.7896232297085,19.793662620181834,0 -101.7896480797829,19.7934126498985,0 -101.78970036965589,19.79321014028957,0 -101.78982701988582,19.79304796986675,0 -101.78997165035267,19.792513460374373,0 -101.79082760011323,19.79218428039191,0 -101.79109693986042,19.79199337957424,0 -101.79163331017806,19.79152498002214,0 -101.79177382978983,19.791378780125406,0 -101.79211840013254,19.790996820294705,0 -101.79239204983594,19.790712350120728,0 -101.79264620028471,19.79049045037876,0 -101.79272465009483,19.790423430220653,0 -101.7927838800546,19.790372809643806,0 -101.79281064997869,19.79033383031874,0 -101.7929542201278,19.790124570303874,0 -101.79311388994734,19.78989445970467,0 -101.79322288994176,19.789904280224185,0 -101.79329538046943,19.789910799762698,0 -101.79333091991755,19.78991853958136,0 -101.79341759956267,19.789937380387766,0 -101.79347515018058,19.789949910364726,0 -101.79357515002938,19.789863630103977,0 -101.79401225029874,19.789832259603966,0 -101.79917107982044,19.789770549587008,0 -101.79916514966116,19.78999526003977,0 -101.79913971005026,19.790180279805952,0 -101.79911987955097,19.790358220237103,0 -101.79911779977708,19.790364049884275,0 -101.7990835496751,19.790460479788702,0 -101.79904754957607,19.790565030143178,0 -101.79901936975618,19.790657849927047,0 -101.7990010198054,19.790763719792828,0 -101.79900091031347,19.79084155033359,0 -101.79908700040194,19.79099311043661,0 -101.79918965001931,19.791139090266885,0 -101.79937762019763,19.79134366031953,0 -101.79958950981231,19.791546660286162,0 -101.79976502044248,19.791694229838686,0 -101.79977511014198,19.791851950345333,0 -101.79968611990115,19.792178890223063,0 -101.79960304957136,19.792341199786488,0 -101.799548219567,19.792547290276765,0 -101.79950748955194,19.792674140190858,0 -101.79951435040053,19.792866709721963,0 -101.79949247968104,19.792932340138936,0 -101.79948323017915,19.793337200324128,0 -101.79947958006625,19.793497260370174,0 -101.79939189021664,19.793823619552782,0 -101.79919590986457,19.794280380176897,0 -101.79896998025333,19.794785690113592,0 -101.79889934043078,19.794982320156635,0 -101.79880101994604,19.795380539818773,0 -101.79856497981183,19.79582133960023,0 -101.79804015012442,19.796703200085116,0 -101.7981669704731,19.79679370983408,0 -101.79796229026111,19.797225019768504,0 -101.7977807499045,19.79760546004624,0 -101.79749197955847,19.798222849936693,0 -101.79737537040462,19.79847211995395,0 -101.79711985046727,19.79901605975803,0 -101.7974695996319,19.799187580387912,0 -101.79781578003268,19.799338339723064,0 -101.79808130988079,19.79946105032736,0 -101.7984337398828,19.799617689863876,0 -101.79811048697294,19.800252356961575,0 -101.7983172197673,19.800375220035676,0 -101.79805369036711,19.80093410955979,0 -101.7978333696521,19.80084261992144,0 -101.79768697028081,19.800781049942845,0 -101.79751856974826,19.800709379795318,0 -101.79722783047836,19.80059334958546,0 -101.79689568029937,19.800452179655533,0 -101.79669496953669,19.80037891995032,0 -101.79649621984515,19.800302679768613,0 -101.79633083008214,19.800657490126195,0 -101.7962731200568,19.800795830055623,0 -101.79619484969778,19.80096947973907,0 -101.79607794960182,19.801240339620932,0 -101.79588662002777,19.80166241991493,0 -101.79571770973301,19.802017199973523,0 -101.79555633971532,19.80237839997707,0 -101.79540229002559,19.802749019737487,0 -101.7951925699389,19.80267341997134,0 -101.79511829015756,19.80199767964049,0 -101.795045710182,19.80124311986029,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="CVE_AGEB">
+          <value>0309</value>
+        </Data>
+        <Data name="CVE_LOC">
+          <value>1.0</value>
+        </Data>
+        <Data name="caso">
+          <value>2</value>
+        </Data>
+        <Data name="columnas_contribuyentes">
+          <value>supermercados y tiendas de abarrotes_porcentaje, farmacias_porcentaje</value>
+        </Data>
+        <Data name="comercio al por mayor">
+          <value>1.0</value>
+        </Data>
+        <Data name="comercio al por mayor_porcentaje">
+          <value>7.69</value>
+        </Data>
+        <Data name="entidad">
+          <value>Michoac&#225;n de Ocampo</value>
+        </Data>
+        <Data name="farmacias">
+          <value>3.0</value>
+        </Data>
+        <Data name="farmacias_porcentaje">
+          <value>23.08</value>
+        </Data>
+        <Data name="id_entidad">
+          <value>16.0</value>
+        </Data>
+        <Data name="id_municipio">
+          <value>107.0</value>
+        </Data>
+        <Data name="localidad">
+          <value>Zacapu</value>
+        </Data>
+        <Data name="municipio">
+          <value>Zacapu</value>
+        </Data>
+        <Data name="restaurantes y servicios de comida">
+          <value>0.0</value>
+        </Data>
+        <Data name="restaurantes y servicios de comida_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="supermercados cadenas">
+          <value>1.0</value>
+        </Data>
+        <Data name="supermercados cadenas_porcentaje">
+          <value>7.69</value>
+        </Data>
+        <Data name="supermercados y tiendas de abarrotes">
+          <value>8.0</value>
+        </Data>
+        <Data name="supermercados y tiendas de abarrotes_porcentaje">
+          <value>61.54</value>
+        </Data>
+        <Data name="tiendas conveniencia cadena">
+          <value>0.0</value>
+        </Data>
+        <Data name="tiendas conveniencia cadena_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="tiendas varias">
+          <value>0.0</value>
+        </Data>
+        <Data name="tiendas varias_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="totales">
+          <value>13.0</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-101.7799775399313,19.807195819776734,0 -101.78003874022991,19.80694140026739,0 -101.78011030956547,19.806902860066298,0 -101.77970425013997,19.806218279710535,0 -101.77951225994394,19.805892980331095,0 -101.77948737034752,19.805843720014384,0 -101.778952519859,19.804940770364546,0 -101.77864591027891,19.804430350158068,0 -101.77831441956889,19.80387852015936,0 -101.7781238800542,19.803770029880592,0 -101.77759245967759,19.802968250232247,0 -101.77718497999088,19.802353480317006,0 -101.77677754038437,19.801738709740583,0 -101.7762763797155,19.80094529030015,0 -101.77566465982298,19.799836149562285,0 -101.7745945099721,19.798099280028136,0 -101.77598075005965,19.797492880351353,0 -101.77649283025207,19.799125400030313,0 -101.77676097007824,19.799951490362453,0 -101.77704272010205,19.800921420427347,0 -101.77737650966463,19.801818019782374,0 -101.77785134040882,19.80257177035613,0 -101.77828665005724,19.80298802029845,0 -101.77845134975806,19.80268358009157,0 -101.778660689551,19.80241646035364,0 -101.7789714804695,19.802121710063584,0 -101.77898783022307,19.801951519918862,0 -101.77896451963855,19.801819370194078,0 -101.77882331007075,19.801558150353884,0 -101.77878607954753,19.801331580415752,0 -101.77878177982493,19.800786890441987,0 -101.77894862029163,19.800395719714825,0 -101.77932162002871,19.799959889985633,0 -101.77947805011512,19.799886229901766,0 -101.77966277973543,19.799828679767824,0 -101.77991767979397,19.799640319567732,0 -101.78015866009966,19.79959349035523,0 -101.78043365028485,19.799587549955202,0 -101.78064808013796,19.799524579915904,0 -101.78133518042335,19.799229920380647,0 -101.78213199965359,19.79899331962699,0 -101.7825274203872,19.79874539966914,0 -101.7835165401515,19.79870163015428,0 -101.7837194201851,19.798631050339257,0 -101.78385532004542,19.798445719661775,0 -101.78390197016878,19.798383110216427,0 -101.78589036986445,19.797562000322344,0 -101.78597271963409,19.797463430021093,0 -101.78605155019784,19.79736909015085,0 -101.78622731039286,19.797193710441814,0 -101.78665264966445,19.796722080439004,0 -101.78687818026901,19.796448519581375,0 -101.78734448021925,19.79595105991151,0 -101.7877101701702,19.795870830368195,0 -101.78789621988867,19.79588439993263,0 -101.788151459935,19.795950229859965,0 -101.78836195039075,19.79603478030767,0 -101.78853686038723,19.796185779689772,0 -101.78871991960057,19.796271659981187,0 -101.78885834954586,19.79631918045042,0 -101.7889985199712,19.796397820445215,0 -101.7893424299564,19.796758859874036,0 -101.78941784962358,19.796800399977794,0 -101.78950231976538,19.796822580025104,0 -101.78962388003801,19.796800800372598,0 -101.78971421981517,19.796775000179515,0 -101.78984871983789,19.796816280351194,0 -101.79007367974917,19.796938650226142,0 -101.79023988975608,19.797098680316964,0 -101.79034312031432,19.797309279749605,0 -101.79050182957542,19.797381690174635,0 -101.79050151033832,19.797492370266312,0 -101.79052591984367,19.797591850185704,0 -101.79059226038288,19.797634089588637,0 -101.79092666033058,19.79778679956173,0 -101.79111521969948,19.797837250400956,0 -101.79130114953486,19.797861630371365,0 -101.79189065043128,19.797868260011697,0 -101.79200325013159,19.79789273960204,0 -101.79205924985555,19.79794525956345,0 -101.79245984958132,19.798411649860743,0 -101.79252461963506,19.798504689818504,0 -101.79257394032048,19.798575569758082,0 -101.79260920041321,19.798704939879936,0 -101.79251400009261,19.798866079864386,0 -101.79252045012956,19.798909519867305,0 -101.79254742982859,19.799076549940157,0 -101.79259471976177,19.799409350243206,0 -101.7927549501918,19.799937939573876,0 -101.79281455030096,19.80007728956829,0 -101.79305795016877,19.800186520187516,0 -101.79304497981663,19.800575689600834,0 -101.79293543026921,19.8007566799148,0 -101.79290348996591,19.801292879778455,0 -101.79283218041203,19.801654320233247,0 -101.79260811955852,19.802074369599676,0 -101.79255440035098,19.80238877023744,0 -101.79254265958345,19.80285956966188,0 -101.79285445000234,19.802973219713767,0 -101.79272135005797,19.803291689611193,0 -101.79256722980404,19.803655740104013,0 -101.79238777026437,19.804058310083704,0 -101.79195243041903,19.80513028003079,0 -101.79132945044555,19.80532117964129,0 -101.79119325028047,19.805312319871543,0 -101.79092658004296,19.80519853987461,0 -101.79050195034222,19.804969539978995,0 -101.7901494203257,19.804805749699405,0 -101.78984931952112,19.80468543014143,0 -101.78963725961972,19.805310830330733,0 -101.78992483017932,19.8054606897525,0 -101.7902728796769,19.80562087979367,0 -101.79001426020403,19.806299049935486,0 -101.78984031984716,19.80677533993143,0 -101.7896507798604,19.80683335029778,0 -101.78962277966549,19.806991169669924,0 -101.78961854036771,19.80701512009936,0 -101.78960660004157,19.807077110236786,0 -101.78988717957282,19.807199770029165,0 -101.78974605964423,19.807923200246552,0 -101.78958196962559,19.807895399719335,0 -101.78949067963204,19.807912230255024,0 -101.78947255043991,19.808146090041042,0 -101.78934345958022,19.80854853969921,0 -101.78921196958724,19.80896787997286,0 -101.7890557704237,19.809461489557542,0 -101.78690002955554,19.80895152029463,0 -101.78606229031182,19.80870476975562,0 -101.78448191960665,19.808105060010767,0 -101.78411399983734,19.80794563010018,0 -101.78295399973717,19.807387079633646,0 -101.78248902022773,19.807193880429278,0 -101.78258343010287,19.807628199975518,0 -101.7826366902669,19.808653180284537,0 -101.78267672010955,19.809043489550227,0 -101.78269297042581,19.809436109649514,0 -101.78269414963299,19.809824740182904,0 -101.7826858604366,19.810237820348043,0 -101.78268617031767,19.810695079777474,0 -101.78268695038575,19.810746199558228,0 -101.78267751997944,19.811209259653566,0 -101.78267228954148,19.81168332033066,0 -101.7826683401855,19.812131829594623,0 -101.78264042968713,19.812452750263756,0 -101.78263371974931,19.812949340138232,0 -101.78263677001092,19.81302767999246,0 -101.78265615003421,19.813526420341915,0 -101.78273828038463,19.81377228981784,0 -101.78299614040478,19.81400574985502,0 -101.78349686003448,19.814271319799648,0 -101.78283363045591,19.814513620181568,0 -101.78149247983299,19.814953479554866,0 -101.78032237012323,19.815351049788635,0 -101.78026362997872,19.815566909581896,0 -101.77999629026532,19.816358649895307,0 -101.77986088978511,19.816786880380793,0 -101.77991925988249,19.816878519603836,0 -101.7794633695979,19.817805879900295,0 -101.77889656964123,19.818999939670707,0 -101.77868446015479,19.81945425006997,0 -101.77833292028797,19.8200819797574,0 -101.77819969008638,19.82031951031137,0 -101.77795867969314,19.820733579848298,0 -101.77760125041738,19.820772259582935,0 -101.77729822024618,19.82050910993267,0 -101.77671199530532,19.82044571587624,0 -101.77649841980693,19.82042931181842,0 -101.77513455014201,19.820029029994974,0 -101.77497939970867,19.819861319917056,0 -101.77490539998982,19.819687890435166,0 -101.77488925960857,19.819524779972884,0 -101.77504084986411,19.81905555023926,0 -101.77522427990584,19.818598459855274,0 -101.77537528012441,19.818222280358988,0 -101.77552767989756,19.817842510030825,0 -101.77561719979047,19.817619449716858,0 -101.775802519742,19.817486250240023,0 -101.77646377035272,19.817154769995916,0 -101.77693054040292,19.817011219917383,0 -101.77706593984477,19.816969569734997,0 -101.77800711957516,19.816353619954185,0 -101.77808812000917,19.81630062016108,0 -101.77799736986,19.81629690976012,0 -101.77796868997761,19.816130090128276,0 -101.77807228995974,19.81593566017814,0 -101.77813201967872,19.815582429853244,0 -101.77829222966697,19.815417110445278,0 -101.77844267988895,19.815194479849087,0 -101.77892388984999,19.814852310218782,0 -101.77874874965771,19.814770280186202,0 -101.77832520042499,19.81459285023695,0 -101.77754584961399,19.81426647955813,0 -101.77542114047152,19.813376710206356,0 -101.77541505999399,19.813374429812278,0 -101.77535814977482,19.81335303017271,0 -101.77503602668664,19.81321998007043,0 -101.77414058018344,19.812850260036505,0 -101.7743929499155,19.812583339884164,0 -101.77439862975797,19.81257771429993,0 -101.7746653700207,19.81232552021993,0 -101.77499974515884,19.812010288885237,0 -101.77505582771633,19.811957477821757,0 -101.77505855371066,19.81195491500989,0 -101.77538401958202,19.81164895010864,0 -101.77596901970534,19.811119120253846,0 -101.77613693959493,19.81096230981981,0 -101.77691408008101,19.810236709682723,0 -101.7771976301382,19.809990679906143,0 -101.77786869005448,19.80940840042703,0 -101.77791871018333,19.809365020351574,0 -101.77855430266675,19.808841950374713,0 -101.77877825988782,19.808616000424866,0 -101.7791295195286,19.808261629603173,0 -101.77951297990117,19.807881109872916,0 -101.77973871021081,19.807615140426858,0 -101.77979563009318,19.807548060043363,0 -101.7799775399313,19.807195819776734,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="CVE_AGEB">
+          <value>0347</value>
+        </Data>
+        <Data name="CVE_LOC">
+          <value>1.0</value>
+        </Data>
+        <Data name="caso">
+          <value>3</value>
+        </Data>
+        <Data name="columnas_contribuyentes">
+          <value>tiendas conveniencia cadena_porcentaje, supermercados y tiendas de abarrotes_porcentaje, farmacias_porcentaje</value>
+        </Data>
+        <Data name="comercio al por mayor">
+          <value>0.0</value>
+        </Data>
+        <Data name="comercio al por mayor_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="entidad">
+          <value>Michoac&#225;n de Ocampo</value>
+        </Data>
+        <Data name="farmacias">
+          <value>1.0</value>
+        </Data>
+        <Data name="farmacias_porcentaje">
+          <value>33.33</value>
+        </Data>
+        <Data name="id_entidad">
+          <value>16.0</value>
+        </Data>
+        <Data name="id_municipio">
+          <value>107.0</value>
+        </Data>
+        <Data name="localidad">
+          <value>Zacapu</value>
+        </Data>
+        <Data name="municipio">
+          <value>Zacapu</value>
+        </Data>
+        <Data name="restaurantes y servicios de comida">
+          <value>0.0</value>
+        </Data>
+        <Data name="restaurantes y servicios de comida_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="supermercados cadenas">
+          <value>0.0</value>
+        </Data>
+        <Data name="supermercados cadenas_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="supermercados y tiendas de abarrotes">
+          <value>1.0</value>
+        </Data>
+        <Data name="supermercados y tiendas de abarrotes_porcentaje">
+          <value>33.33</value>
+        </Data>
+        <Data name="tiendas conveniencia cadena">
+          <value>1.0</value>
+        </Data>
+        <Data name="tiendas conveniencia cadena_porcentaje">
+          <value>33.33</value>
+        </Data>
+        <Data name="tiendas varias">
+          <value>0.0</value>
+        </Data>
+        <Data name="tiendas varias_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="totales">
+          <value>3.0</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-101.7743159999105,19.833517659998247,0 -101.77752838030563,19.8321458304019,0 -101.77640837005394,19.833815520409377,0 -101.77638612025298,19.83391905968805,0 -101.77640403009123,19.833992250436072,0 -101.77645158020972,19.834064980046225,0 -101.77656427972772,19.834161169893314,0 -101.77742516964608,19.83471548012324,0 -101.77975708008498,19.836216880434986,0 -101.77988712019115,19.836287569931812,0 -101.7797778896299,19.836467710263378,0 -101.77958153979355,19.836791489627107,0 -101.77911957007206,19.837492630305853,0 -101.77879930986502,19.8380627501449,0 -101.77746149035156,19.84088753978267,0 -101.77708899996347,19.842285379763563,0 -101.77572944996409,19.845662230169136,0 -101.7749180301963,19.847609569733894,0 -101.77278356982993,19.846086650392486,0 -101.77252909010879,19.8459028499065,0 -101.77242510966845,19.84584136993019,0 -101.77224427967812,19.84570628021582,0 -101.77205377976492,19.84554896969559,0 -101.77199392041115,19.845496289928697,0 -101.771763710159,19.84529582966211,0 -101.77141748967341,19.84501344989879,0 -101.77106622988076,19.84471981965346,0 -101.77073436965883,19.844440220182854,0 -101.77039662010084,19.844147319605998,0 -101.77035228010048,19.844108859803608,0 -101.76999337034856,19.84378297036458,0 -101.76967550991155,19.843540490144896,0 -101.76933847665252,19.84328813658062,0 -101.7693111126143,19.843282188799876,0 -101.76901463221063,19.842965959411274,0 -101.76890803180768,19.842846033671506,0 -101.76868857045312,19.84258329027648,0 -101.76848335031026,19.842312570274967,0 -101.76833937008712,19.842124000427248,0 -101.76759401969917,19.841183509887298,0 -101.76758074008507,19.84084531964453,0 -101.76757125963853,19.840603820393657,0 -101.7676072297368,19.8403177496732,0 -101.76774777009213,19.839667879960725,0 -101.76778967973353,19.83953052008512,0 -101.76780675008628,19.839474569594305,0 -101.76787069008356,19.839166859955714,0 -101.76779280004972,19.83905046024148,0 -101.76830530959175,19.838178289979535,0 -101.76934859975044,19.836138889938002,0 -101.76975168003997,19.835899919965144,0 -101.77027571014533,19.835689770001682,0 -101.7743159999105,19.833517659998247,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="CVE_AGEB">
+          <value>0351</value>
+        </Data>
+        <Data name="CVE_LOC">
+          <value>1.0</value>
+        </Data>
+        <Data name="caso">
+          <value>1</value>
+        </Data>
+        <Data name="columnas_contribuyentes">
+          <value>supermercados y tiendas de abarrotes_porcentaje</value>
+        </Data>
+        <Data name="comercio al por mayor">
+          <value>0.0</value>
+        </Data>
+        <Data name="comercio al por mayor_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="entidad">
+          <value>Michoac&#225;n de Ocampo</value>
+        </Data>
+        <Data name="farmacias">
+          <value>0.0</value>
+        </Data>
+        <Data name="farmacias_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="id_entidad">
+          <value>16.0</value>
+        </Data>
+        <Data name="id_municipio">
+          <value>107.0</value>
+        </Data>
+        <Data name="localidad">
+          <value>Zacapu</value>
+        </Data>
+        <Data name="municipio">
+          <value>Zacapu</value>
+        </Data>
+        <Data name="restaurantes y servicios de comida">
+          <value>0.0</value>
+        </Data>
+        <Data name="restaurantes y servicios de comida_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="supermercados cadenas">
+          <value>0.0</value>
+        </Data>
+        <Data name="supermercados cadenas_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="supermercados y tiendas de abarrotes">
+          <value>4.0</value>
+        </Data>
+        <Data name="supermercados y tiendas de abarrotes_porcentaje">
+          <value>80.0</value>
+        </Data>
+        <Data name="tiendas conveniencia cadena">
+          <value>1.0</value>
+        </Data>
+        <Data name="tiendas conveniencia cadena_porcentaje">
+          <value>20.0</value>
+        </Data>
+        <Data name="tiendas varias">
+          <value>0.0</value>
+        </Data>
+        <Data name="tiendas varias_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="totales">
+          <value>5.0</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-101.79898291030378,19.804940220379216,0 -101.79909272045875,19.804688679808503,0 -101.7991110604695,19.804645750359057,0 -101.79930127998271,19.80427294981055,0 -101.79949705024848,19.803887549823763,0 -101.79976571957295,19.803304909720868,0 -101.79925410981129,19.803076979989463,0 -101.79913491042255,19.80301941991867,0 -101.79886404980574,19.802888569908387,0 -101.79857502964312,19.8027536601425,0 -101.79850301961764,19.802932169655698,0 -101.79831155030129,19.803392479629245,0 -101.79820465002534,19.80363497037028,0 -101.79811786007961,19.803811459820732,0 -101.79801860034073,19.80400034988822,0 -101.79743041995788,19.803698519738496,0 -101.79690674988323,19.803444660038615,0 -101.79666635014347,19.80333338001168,0 -101.79641128986229,19.803223170279967,0 -101.79589491001984,19.80298590987607,0 -101.79540229002559,19.802749019737487,0 -101.79555633971532,19.80237839997707,0 -101.79571770973301,19.802017199973523,0 -101.79588662002777,19.80166241991493,0 -101.79607794960182,19.801240339620932,0 -101.79619484969778,19.80096947973907,0 -101.7962731200568,19.800795830055623,0 -101.79633083008214,19.800657490126195,0 -101.79649621984515,19.800302679768613,0 -101.79669496953669,19.80037891995032,0 -101.79689568029937,19.800452179655533,0 -101.79722783047836,19.80059334958546,0 -101.79751856974826,19.800709379795318,0 -101.79768697028081,19.800781049942845,0 -101.7978333696521,19.80084261992144,0 -101.79805369036711,19.80093410955979,0 -101.7983172197673,19.800375220035676,0 -101.79811048697294,19.800252356961575,0 -101.7984337398828,19.799617689863876,0 -101.79808130988079,19.79946105032736,0 -101.79781578003268,19.799338339723064,0 -101.7974695996319,19.799187580387912,0 -101.79711985046727,19.79901605975803,0 -101.79737537040462,19.79847211995395,0 -101.79749197955847,19.798222849936693,0 -101.7977807499045,19.79760546004624,0 -101.79796229026111,19.797225019768504,0 -101.7981669704731,19.79679370983408,0 -101.79804015012442,19.796703200085116,0 -101.79856497981183,19.79582133960023,0 -101.79880101994604,19.795380539818773,0 -101.79889934043078,19.794982320156635,0 -101.79896998025333,19.794785690113592,0 -101.79919590986457,19.794280380176897,0 -101.79939189021664,19.793823619552782,0 -101.79947958006625,19.793497260370174,0 -101.79948323017915,19.793337200324128,0 -101.79949247968104,19.792932340138936,0 -101.8003279701556,19.793004079622694,0 -101.80017110981811,19.79316195000836,0 -101.80000597970815,19.793557029876236,0 -101.79993319975235,19.79374405988706,0 -101.79995065975409,19.79387085003562,0 -101.79991003021092,19.7940061802635,0 -101.79991868965594,19.794102179748275,0 -101.80005926028025,19.79424411004636,0 -101.8001144297941,19.79443168972774,0 -101.80013555032671,19.79461605044173,0 -101.80010756952402,19.794793449921013,0 -101.80071274045524,19.795111890264412,0 -101.79968599984825,19.79713565961522,0 -101.80086205958567,19.79777466036485,0 -101.80213908018418,19.798400169759415,0 -101.80217497956066,19.79841775024216,0 -101.80208057027136,19.798613709745695,0 -101.80167787969519,19.798425459829524,0 -101.80133802978283,19.798260379990413,0 -101.80098722031263,19.798089950165267,0 -101.80055286035923,19.798934229960427,0 -101.80092372027697,19.799115369690735,0 -101.801269370307,19.799284219620027,0 -101.80167294969081,19.79947372001012,0 -101.80160709019599,19.799622229610428,0 -101.80419419968646,19.800673140314426,0 -101.80420301983243,19.800676720074463,0 -101.8036338598537,19.80183405982229,0 -101.80245713959287,19.804220349922968,0 -101.80226814969544,19.804240200354137,0 -101.80207915015326,19.804260059601148,0 -101.80191989005304,19.804303399826182,0 -101.80123918005725,19.804481649669484,0 -101.80103923004899,19.804542279888736,0 -101.80036817983436,19.80474034000716,0 -101.7995537504758,19.804944679989298,0 -101.79947882025785,19.804859020444063,0 -101.79947892103245,19.804879614206477,0 -101.79926802990514,19.805231449766797,0 -101.79918885971009,19.805199230363375,0 -101.79900649012129,19.805067689993628,0 -101.79898291030378,19.804940220379216,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="CVE_AGEB">
+          <value>0366</value>
+        </Data>
+        <Data name="CVE_LOC">
+          <value>1.0</value>
+        </Data>
+        <Data name="caso">
+          <value>3</value>
+        </Data>
+        <Data name="columnas_contribuyentes">
+          <value>supermercados y tiendas de abarrotes_porcentaje, farmacias_porcentaje, tiendas conveniencia cadena_porcentaje</value>
+        </Data>
+        <Data name="comercio al por mayor">
+          <value>1.0</value>
+        </Data>
+        <Data name="comercio al por mayor_porcentaje">
+          <value>7.69</value>
+        </Data>
+        <Data name="entidad">
+          <value>Michoac&#225;n de Ocampo</value>
+        </Data>
+        <Data name="farmacias">
+          <value>2.0</value>
+        </Data>
+        <Data name="farmacias_porcentaje">
+          <value>15.38</value>
+        </Data>
+        <Data name="id_entidad">
+          <value>16.0</value>
+        </Data>
+        <Data name="id_municipio">
+          <value>107.0</value>
+        </Data>
+        <Data name="localidad">
+          <value>Zacapu</value>
+        </Data>
+        <Data name="municipio">
+          <value>Zacapu</value>
+        </Data>
+        <Data name="restaurantes y servicios de comida">
+          <value>1.0</value>
+        </Data>
+        <Data name="restaurantes y servicios de comida_porcentaje">
+          <value>7.69</value>
+        </Data>
+        <Data name="supermercados cadenas">
+          <value>0.0</value>
+        </Data>
+        <Data name="supermercados cadenas_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="supermercados y tiendas de abarrotes">
+          <value>8.0</value>
+        </Data>
+        <Data name="supermercados y tiendas de abarrotes_porcentaje">
+          <value>61.54</value>
+        </Data>
+        <Data name="tiendas conveniencia cadena">
+          <value>1.0</value>
+        </Data>
+        <Data name="tiendas conveniencia cadena_porcentaje">
+          <value>7.69</value>
+        </Data>
+        <Data name="tiendas varias">
+          <value>0.0</value>
+        </Data>
+        <Data name="tiendas varias_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="totales">
+          <value>13.0</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-101.79538530996226,19.81241094957774,0 -101.79470387977615,19.812104520114147,0 -101.7937808497775,19.811651080240416,0 -101.79275198030572,19.811200629915515,0 -101.79319430992032,19.810172049708083,0 -101.7935020000862,19.809509879692108,0 -101.79382885045473,19.808853800111223,0 -101.79275635025267,19.808429449614913,0 -101.79313640011839,19.8075882196181,0 -101.79350922999652,19.80679002041763,0 -101.79381831046392,19.80610175043427,0 -101.79391029033651,19.805927720008718,0 -101.79437668997376,19.80485873960326,0 -101.79481255037625,19.80399108013213,0 -101.79530877998972,19.80419134009698,0 -101.7951925699389,19.80267341997134,0 -101.79540229002559,19.802749019737487,0 -101.79589491001984,19.80298590987607,0 -101.79641128986229,19.803223170279967,0 -101.79666635014347,19.80333338001168,0 -101.79690674988323,19.803444660038615,0 -101.79743041995788,19.803698519738496,0 -101.79801860034073,19.80400034988822,0 -101.79811786007961,19.803811459820732,0 -101.79820465002534,19.80363497037028,0 -101.79831155030129,19.803392479629245,0 -101.79850301961764,19.802932169655698,0 -101.79857502964312,19.8027536601425,0 -101.79886404980574,19.802888569908387,0 -101.79913491042255,19.80301941991867,0 -101.79925410981129,19.803076979989463,0 -101.79976571957295,19.803304909720868,0 -101.79949705024848,19.803887549823763,0 -101.79930127998271,19.80427294981055,0 -101.7991110604695,19.804645750359057,0 -101.79909272045875,19.804688679808503,0 -101.79898291030378,19.804940220379216,0 -101.79900649012129,19.805067689993628,0 -101.79918885971009,19.805199230363375,0 -101.79926802990514,19.805231449766797,0 -101.79884608018058,19.80608146008643,0 -101.79820970997562,19.807343030012657,0 -101.7975663697485,19.808630800075285,0 -101.79717084980894,19.809415320379355,0 -101.79692442030525,19.80992496995878,0 -101.79639871952797,19.81102488021614,0 -101.79599389037402,19.811819720442582,0 -101.79589539954651,19.812038490386104,0 -101.79567608986974,19.812545659714793,0 -101.79538530996226,19.81241094957774,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="CVE_AGEB">
+          <value>0440</value>
+        </Data>
+        <Data name="CVE_LOC">
+          <value>1.0</value>
+        </Data>
+        <Data name="caso">
+          <value>1</value>
+        </Data>
+        <Data name="columnas_contribuyentes">
+          <value>restaurantes y servicios de comida_porcentaje</value>
+        </Data>
+        <Data name="comercio al por mayor">
+          <value>0.0</value>
+        </Data>
+        <Data name="comercio al por mayor_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="entidad">
+          <value>Michoac&#225;n de Ocampo</value>
+        </Data>
+        <Data name="farmacias">
+          <value>0.0</value>
+        </Data>
+        <Data name="farmacias_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="id_entidad">
+          <value>16.0</value>
+        </Data>
+        <Data name="id_municipio">
+          <value>107.0</value>
+        </Data>
+        <Data name="localidad">
+          <value>Zacapu</value>
+        </Data>
+        <Data name="municipio">
+          <value>Zacapu</value>
+        </Data>
+        <Data name="restaurantes y servicios de comida">
+          <value>1.0</value>
+        </Data>
+        <Data name="restaurantes y servicios de comida_porcentaje">
+          <value>100.0</value>
+        </Data>
+        <Data name="supermercados cadenas">
+          <value>0.0</value>
+        </Data>
+        <Data name="supermercados cadenas_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="supermercados y tiendas de abarrotes">
+          <value>0.0</value>
+        </Data>
+        <Data name="supermercados y tiendas de abarrotes_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="tiendas conveniencia cadena">
+          <value>0.0</value>
+        </Data>
+        <Data name="tiendas conveniencia cadena_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="tiendas varias">
+          <value>0.0</value>
+        </Data>
+        <Data name="tiendas varias_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="totales">
+          <value>1.0</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-101.77681804976109,19.807261820255626,0 -101.77635275005706,19.806947660013247,0 -101.7756414797955,19.806467449729503,0 -101.77563288036825,19.806462080341397,0 -101.77560317990532,19.80644351466087,0 -101.77568354958049,19.806405849746554,0 -101.77682304961027,19.805222089763863,0 -101.77722624969898,19.804767379795624,0 -101.77773711964936,19.80418919994943,0 -101.7781238800542,19.803770029880592,0 -101.77831441956889,19.80387852015936,0 -101.77864591027891,19.804430350158068,0 -101.778952519859,19.804940770364546,0 -101.77948737034752,19.805843720014384,0 -101.77951225994394,19.805892980331095,0 -101.77970425013997,19.806218279710535,0 -101.78011030956547,19.806902860066298,0 -101.78003874022991,19.80694140026739,0 -101.77933445002813,19.80708190991629,0 -101.77896692044895,19.807155220027973,0 -101.77805874956624,19.80712797037177,0 -101.7772487804087,19.806961949990036,0 -101.7771917403437,19.80703512002204,0 -101.77708227997731,19.807175490216192,0 -101.77681804976109,19.807261820255626,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="CVE_AGEB">
+          <value>0506</value>
+        </Data>
+        <Data name="CVE_LOC">
+          <value>1.0</value>
+        </Data>
+        <Data name="caso">
+          <value>2</value>
+        </Data>
+        <Data name="columnas_contribuyentes">
+          <value>supermercados y tiendas de abarrotes_porcentaje, farmacias_porcentaje</value>
+        </Data>
+        <Data name="comercio al por mayor">
+          <value>1.0</value>
+        </Data>
+        <Data name="comercio al por mayor_porcentaje">
+          <value>2.27</value>
+        </Data>
+        <Data name="entidad">
+          <value>Michoac&#225;n de Ocampo</value>
+        </Data>
+        <Data name="farmacias">
+          <value>16.0</value>
+        </Data>
+        <Data name="farmacias_porcentaje">
+          <value>36.36</value>
+        </Data>
+        <Data name="id_entidad">
+          <value>16.0</value>
+        </Data>
+        <Data name="id_municipio">
+          <value>107.0</value>
+        </Data>
+        <Data name="localidad">
+          <value>Zacapu</value>
+        </Data>
+        <Data name="municipio">
+          <value>Zacapu</value>
+        </Data>
+        <Data name="restaurantes y servicios de comida">
+          <value>1.0</value>
+        </Data>
+        <Data name="restaurantes y servicios de comida_porcentaje">
+          <value>2.27</value>
+        </Data>
+        <Data name="supermercados cadenas">
+          <value>0.0</value>
+        </Data>
+        <Data name="supermercados cadenas_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="supermercados y tiendas de abarrotes">
+          <value>23.0</value>
+        </Data>
+        <Data name="supermercados y tiendas de abarrotes_porcentaje">
+          <value>52.27</value>
+        </Data>
+        <Data name="tiendas conveniencia cadena">
+          <value>3.0</value>
+        </Data>
+        <Data name="tiendas conveniencia cadena_porcentaje">
+          <value>6.82</value>
+        </Data>
+        <Data name="tiendas varias">
+          <value>0.0</value>
+        </Data>
+        <Data name="tiendas varias_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="totales">
+          <value>44.0</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-101.7850055704288,19.813752020156894,0 -101.78467914021739,19.813563149710852,0 -101.78524455010682,19.812654569917182,0 -101.78573137970983,19.811867549718357,0 -101.78537010997333,19.811654799592894,0 -101.78502412007086,19.811466350326775,0 -101.78549955004904,19.810680109629228,0 -101.7861206002626,19.809612379751822,0 -101.78727871964792,19.810709459895783,0 -101.7877064000971,19.81112002958499,0 -101.78804475023506,19.811441749982333,0 -101.7882731197216,19.81165890972446,0 -101.78869177009108,19.81204998002378,0 -101.78907909035446,19.81244150965853,0 -101.7898435497897,19.813161979614115,0 -101.79013957007805,19.813434879586236,0 -101.79040801994762,19.813712999728775,0 -101.79102594021468,19.814308849632944,0 -101.7919371100222,19.815242889677656,0 -101.79161495014661,19.815770339719347,0 -101.7910301501267,19.816718200072497,0 -101.79040930971172,19.81774211991773,0 -101.7898105200424,19.818774309700274,0 -101.78914564954755,19.818368149756783,0 -101.78880694953958,19.81816125956074,0 -101.78821700032309,19.817792620145042,0 -101.78742196992518,19.81731383035694,0 -101.78654267958659,19.816759179870584,0 -101.78565217016195,19.816221449866852,0 -101.78439437038213,19.815471449800302,0 -101.7847353102863,19.814909120025124,0 -101.78502502968142,19.814459660090307,0 -101.78532350960968,19.813996600228645,0 -101.78538193958738,19.813960480430065,0 -101.7850055704288,19.813752020156894,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="CVE_AGEB">
+          <value>0510</value>
+        </Data>
+        <Data name="CVE_LOC">
+          <value>1.0</value>
+        </Data>
+        <Data name="caso">
+          <value>3</value>
+        </Data>
+        <Data name="columnas_contribuyentes">
+          <value>supermercados y tiendas de abarrotes_porcentaje, tiendas conveniencia cadena_porcentaje, farmacias_porcentaje</value>
+        </Data>
+        <Data name="comercio al por mayor">
+          <value>0.0</value>
+        </Data>
+        <Data name="comercio al por mayor_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="entidad">
+          <value>Michoac&#225;n de Ocampo</value>
+        </Data>
+        <Data name="farmacias">
+          <value>1.0</value>
+        </Data>
+        <Data name="farmacias_porcentaje">
+          <value>25.0</value>
+        </Data>
+        <Data name="id_entidad">
+          <value>16.0</value>
+        </Data>
+        <Data name="id_municipio">
+          <value>107.0</value>
+        </Data>
+        <Data name="localidad">
+          <value>Zacapu</value>
+        </Data>
+        <Data name="municipio">
+          <value>Zacapu</value>
+        </Data>
+        <Data name="restaurantes y servicios de comida">
+          <value>0.0</value>
+        </Data>
+        <Data name="restaurantes y servicios de comida_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="supermercados cadenas">
+          <value>0.0</value>
+        </Data>
+        <Data name="supermercados cadenas_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="supermercados y tiendas de abarrotes">
+          <value>2.0</value>
+        </Data>
+        <Data name="supermercados y tiendas de abarrotes_porcentaje">
+          <value>50.0</value>
+        </Data>
+        <Data name="tiendas conveniencia cadena">
+          <value>1.0</value>
+        </Data>
+        <Data name="tiendas conveniencia cadena_porcentaje">
+          <value>25.0</value>
+        </Data>
+        <Data name="tiendas varias">
+          <value>0.0</value>
+        </Data>
+        <Data name="tiendas varias_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="totales">
+          <value>4.0</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-101.78448191960665,19.808105060010767,0 -101.78478488965591,19.80840648984505,0 -101.78510783031258,19.808699420323105,0 -101.78543581973578,19.808983570052852,0 -101.78578122994503,19.80929114001152,0 -101.7861206002626,19.809612379751822,0 -101.78549955004904,19.810680109629228,0 -101.78502412007086,19.811466350326775,0 -101.78537010997333,19.811654799592894,0 -101.78573137970983,19.811867549718357,0 -101.78524455010682,19.812654569917182,0 -101.78467914021739,19.813563149710852,0 -101.7850055704288,19.813752020156894,0 -101.78538193958738,19.813960480430065,0 -101.78532350960968,19.813996600228645,0 -101.78502502968142,19.814459660090307,0 -101.7847353102863,19.814909120025124,0 -101.78439437038213,19.815471449800302,0 -101.78340463039821,19.814872030155723,0 -101.78283363045591,19.814513620181568,0 -101.78349686003448,19.814271319799648,0 -101.78299614040478,19.81400574985502,0 -101.78273828038463,19.81377228981784,0 -101.78265615003421,19.813526420341915,0 -101.78263677001092,19.81302767999246,0 -101.78263371974931,19.812949340138232,0 -101.78264042968713,19.812452750263756,0 -101.7826683401855,19.812131829594623,0 -101.78267228954148,19.81168332033066,0 -101.78267751997944,19.811209259653566,0 -101.78268695038575,19.810746199558228,0 -101.78268617031767,19.810695079777474,0 -101.7826858604366,19.810237820348043,0 -101.78269414963299,19.809824740182904,0 -101.78269297042581,19.809436109649514,0 -101.78267672010955,19.809043489550227,0 -101.7826366902669,19.808653180284537,0 -101.78258343010287,19.807628199975518,0 -101.78248902022773,19.807193880429278,0 -101.78295399973717,19.807387079633646,0 -101.78411399983734,19.80794563010018,0 -101.78448191960665,19.808105060010767,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="CVE_AGEB">
+          <value>0563</value>
+        </Data>
+        <Data name="CVE_LOC">
+          <value>1.0</value>
+        </Data>
+        <Data name="caso">
+          <value>1</value>
+        </Data>
+        <Data name="columnas_contribuyentes">
+          <value>supermercados y tiendas de abarrotes_porcentaje</value>
+        </Data>
+        <Data name="comercio al por mayor">
+          <value>0.0</value>
+        </Data>
+        <Data name="comercio al por mayor_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="entidad">
+          <value>Michoac&#225;n de Ocampo</value>
+        </Data>
+        <Data name="farmacias">
+          <value>0.0</value>
+        </Data>
+        <Data name="farmacias_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="id_entidad">
+          <value>16.0</value>
+        </Data>
+        <Data name="id_municipio">
+          <value>107.0</value>
+        </Data>
+        <Data name="localidad">
+          <value>Zacapu</value>
+        </Data>
+        <Data name="municipio">
+          <value>Zacapu</value>
+        </Data>
+        <Data name="restaurantes y servicios de comida">
+          <value>0.0</value>
+        </Data>
+        <Data name="restaurantes y servicios de comida_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="supermercados cadenas">
+          <value>0.0</value>
+        </Data>
+        <Data name="supermercados cadenas_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="supermercados y tiendas de abarrotes">
+          <value>2.0</value>
+        </Data>
+        <Data name="supermercados y tiendas de abarrotes_porcentaje">
+          <value>100.0</value>
+        </Data>
+        <Data name="tiendas conveniencia cadena">
+          <value>0.0</value>
+        </Data>
+        <Data name="tiendas conveniencia cadena_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="tiendas varias">
+          <value>0.0</value>
+        </Data>
+        <Data name="tiendas varias_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="totales">
+          <value>2.0</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-101.77649283025207,19.799125400030313,0 -101.77598075005965,19.797492880351353,0 -101.7745945099721,19.798099280028136,0 -101.77448957014481,19.79792893957902,0 -101.77268558033886,19.795015780162455,0 -101.77108842021634,19.792445820263143,0 -101.77089229018947,19.792126909777537,0 -101.77100736970111,19.792041460062666,0 -101.77098253452208,19.792001306199825,0 -101.77087476991633,19.79182454027798,0 -101.7724862499113,19.790683970013134,0 -101.77236739954233,19.79045720043961,0 -101.77340845024119,19.789571570206533,0 -101.77373298032836,19.790575539618466,0 -101.77544525032148,19.78925134977828,0 -101.77780908975478,19.791556350124367,0 -101.77817368012379,19.79130202015825,0 -101.7785565500417,19.791033279638498,0 -101.77887327957293,19.790816750305265,0 -101.77915565975574,19.790632339625617,0 -101.77938572047528,19.790467909962356,0 -101.77966270961602,19.790595375187774,0 -101.78029365023421,19.7906192204061,0 -101.7808354604391,19.790601690325946,0 -101.78053027956669,19.790844290048234,0 -101.78142969026005,19.791764450042074,0 -101.78170648991714,19.791569549793497,0 -101.78196358029086,19.79137845007933,0 -101.78221720039141,19.7912078803207,0 -101.7825117395733,19.790991150123233,0 -101.78279724973274,19.79080579995032,0 -101.78300684996512,19.79067642957688,0 -101.78321557969257,19.79056906040545,0 -101.78359945991927,19.790266249735225,0 -101.78384432030539,19.790115459765108,0 -101.78384341955129,19.78962576960191,0 -101.78389613974869,19.789654909829892,0 -101.78447941992914,19.789977030299266,0 -101.78475463047869,19.790135539922236,0 -101.7850394298773,19.79026597015042,0 -101.78512295014868,19.79027545037644,0 -101.78524952012471,19.790289829709934,0 -101.7852931203215,19.79029478038721,0 -101.78539973953521,19.790360400294375,0 -101.78544068033321,19.790427370059913,0 -101.78548317026508,19.790496889781082,0 -101.78561665974948,19.79057729038988,0 -101.7851863399376,19.790985219558625,0 -101.7848064198899,19.791278849626373,0 -101.78444525959452,19.791423369791666,0 -101.78421901965768,19.79157847996425,0 -101.78397571959931,19.791867169925922,0 -101.78386594036635,19.792060529905694,0 -101.78364891003342,19.79233417968155,0 -101.7833926302093,19.79255055015951,0 -101.78315719981514,19.792629920415497,0 -101.78297684957597,19.79261694961734,0 -101.78271219987224,19.792551690447503,0 -101.78248308006734,19.792419649662225,0 -101.7822399501415,19.792617540118776,0 -101.7819255395963,19.79284744992128,0 -101.78157143014364,19.793094349613064,0 -101.78118736962004,19.7933764898656,0 -101.78087408954232,19.793625219859788,0 -101.78058897994978,19.793845369937564,0 -101.78039848026596,19.793979110165058,0 -101.78028336959098,19.794068710100515,0 -101.78023671972183,19.79410502011895,0 -101.78000287988195,19.794319819894827,0 -101.78173148978311,19.796060979749054,0 -101.78190861976651,19.796239400197265,0 -101.78169148013303,19.796721479825443,0 -101.78176012031594,19.796737020402414,0 -101.78166674978164,19.797116149755883,0 -101.78167890992673,19.79734847990224,0 -101.78281980013017,19.7983105802098,0 -101.7830670799479,19.798408150132868,0 -101.78385532004542,19.798445719661775,0 -101.7837194201851,19.798631050339257,0 -101.7835165401515,19.79870163015428,0 -101.7825274203872,19.79874539966914,0 -101.78213199965359,19.79899331962699,0 -101.78133518042335,19.799229920380647,0 -101.78064808013796,19.799524579915904,0 -101.78043365028485,19.799587549955202,0 -101.78015866009966,19.79959349035523,0 -101.77991767979397,19.799640319567732,0 -101.77966277973543,19.799828679767824,0 -101.77947805011512,19.799886229901766,0 -101.77932162002871,19.799959889985633,0 -101.77894862029163,19.800395719714825,0 -101.77878177982493,19.800786890441987,0 -101.77878607954753,19.801331580415752,0 -101.77882331007075,19.801558150353884,0 -101.77896451963855,19.801819370194078,0 -101.77898783022307,19.801951519918862,0 -101.7789714804695,19.802121710063584,0 -101.778660689551,19.80241646035364,0 -101.77845134975806,19.80268358009157,0 -101.77828665005724,19.80298802029845,0 -101.77785134040882,19.80257177035613,0 -101.77737650966463,19.801818019782374,0 -101.77704272010205,19.800921420427347,0 -101.77676097007824,19.799951490362453,0 -101.77649283025207,19.799125400030313,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="CVE_AGEB">
+          <value>0578</value>
+        </Data>
+        <Data name="CVE_LOC">
+          <value>1.0</value>
+        </Data>
+        <Data name="caso">
+          <value>1</value>
+        </Data>
+        <Data name="columnas_contribuyentes">
+          <value>supermercados y tiendas de abarrotes_porcentaje</value>
+        </Data>
+        <Data name="comercio al por mayor">
+          <value>0.0</value>
+        </Data>
+        <Data name="comercio al por mayor_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="entidad">
+          <value>Michoac&#225;n de Ocampo</value>
+        </Data>
+        <Data name="farmacias">
+          <value>0.0</value>
+        </Data>
+        <Data name="farmacias_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="id_entidad">
+          <value>16.0</value>
+        </Data>
+        <Data name="id_municipio">
+          <value>107.0</value>
+        </Data>
+        <Data name="localidad">
+          <value>Zacapu</value>
+        </Data>
+        <Data name="municipio">
+          <value>Zacapu</value>
+        </Data>
+        <Data name="restaurantes y servicios de comida">
+          <value>1.0</value>
+        </Data>
+        <Data name="restaurantes y servicios de comida_porcentaje">
+          <value>20.0</value>
+        </Data>
+        <Data name="supermercados cadenas">
+          <value>0.0</value>
+        </Data>
+        <Data name="supermercados cadenas_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="supermercados y tiendas de abarrotes">
+          <value>4.0</value>
+        </Data>
+        <Data name="supermercados y tiendas de abarrotes_porcentaje">
+          <value>80.0</value>
+        </Data>
+        <Data name="tiendas conveniencia cadena">
+          <value>0.0</value>
+        </Data>
+        <Data name="tiendas conveniencia cadena_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="tiendas varias">
+          <value>0.0</value>
+        </Data>
+        <Data name="tiendas varias_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="totales">
+          <value>5.0</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-101.78947255043991,19.808146090041042,0 -101.78949067963204,19.807912230255024,0 -101.78958196962559,19.807895399719335,0 -101.78974605964423,19.807923200246552,0 -101.78988717957282,19.807199770029165,0 -101.78960660004157,19.807077110236786,0 -101.78961854036771,19.80701512009936,0 -101.78962277966549,19.806991169669924,0 -101.7896507798604,19.80683335029778,0 -101.78984031984716,19.80677533993143,0 -101.79001426020403,19.806299049935486,0 -101.7904639501242,19.80647841972021,0 -101.79078719986268,19.806600630108285,0 -101.79084291955363,19.806623739739482,0 -101.79088529730969,19.806640619575443,0 -101.79165838045793,19.806948570113732,0 -101.79202549001855,19.806150719781705,0 -101.7925051696742,19.80635777983556,0 -101.79297284975159,19.80656972004993,0 -101.79327007996618,19.80669177992792,0 -101.79350922999652,19.80679002041763,0 -101.79313640011839,19.8075882196181,0 -101.79275635025267,19.808429449614913,0 -101.79382885045473,19.808853800111223,0 -101.7935020000862,19.809509879692108,0 -101.79319430992032,19.810172049708083,0 -101.79275198030572,19.811200629915515,0 -101.79214934987687,19.810892680096376,0 -101.79170003020178,19.81067199974722,0 -101.79136256967352,19.8105141697489,0 -101.79114628006809,19.81041222003493,0 -101.79071102000673,19.81020977980359,0 -101.79045222959277,19.81010052033341,0 -101.79023833980075,19.810005710382566,0 -101.78979914019705,19.809803540414787,0 -101.78949600036037,19.809665399657817,0 -101.7890557704237,19.809461489557542,0 -101.78921196958724,19.80896787997286,0 -101.78934345958022,19.80854853969921,0 -101.78947255043991,19.808146090041042,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="CVE_AGEB">
+          <value>0582</value>
+        </Data>
+        <Data name="CVE_LOC">
+          <value>1.0</value>
+        </Data>
+        <Data name="caso">
+          <value>1</value>
+        </Data>
+        <Data name="columnas_contribuyentes">
+          <value>supermercados y tiendas de abarrotes_porcentaje</value>
+        </Data>
+        <Data name="comercio al por mayor">
+          <value>0.0</value>
+        </Data>
+        <Data name="comercio al por mayor_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="entidad">
+          <value>Michoac&#225;n de Ocampo</value>
+        </Data>
+        <Data name="farmacias">
+          <value>0.0</value>
+        </Data>
+        <Data name="farmacias_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="id_entidad">
+          <value>16.0</value>
+        </Data>
+        <Data name="id_municipio">
+          <value>107.0</value>
+        </Data>
+        <Data name="localidad">
+          <value>Zacapu</value>
+        </Data>
+        <Data name="municipio">
+          <value>Zacapu</value>
+        </Data>
+        <Data name="restaurantes y servicios de comida">
+          <value>0.0</value>
+        </Data>
+        <Data name="restaurantes y servicios de comida_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="supermercados cadenas">
+          <value>0.0</value>
+        </Data>
+        <Data name="supermercados cadenas_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="supermercados y tiendas de abarrotes">
+          <value>2.0</value>
+        </Data>
+        <Data name="supermercados y tiendas de abarrotes_porcentaje">
+          <value>100.0</value>
+        </Data>
+        <Data name="tiendas conveniencia cadena">
+          <value>0.0</value>
+        </Data>
+        <Data name="tiendas conveniencia cadena_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="tiendas varias">
+          <value>0.0</value>
+        </Data>
+        <Data name="tiendas varias_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="totales">
+          <value>2.0</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-101.79001426020403,19.806299049935486,0 -101.7902728796769,19.80562087979367,0 -101.78992483017932,19.8054606897525,0 -101.78963725961972,19.805310830330733,0 -101.78984931952112,19.80468543014143,0 -101.7901494203257,19.804805749699405,0 -101.79050195034222,19.804969539978995,0 -101.79092658004296,19.80519853987461,0 -101.79119325028047,19.805312319871543,0 -101.79132945044555,19.80532117964129,0 -101.79195243041903,19.80513028003079,0 -101.79238777026437,19.804058310083704,0 -101.79256722980404,19.803655740104013,0 -101.79272135005797,19.803291689611193,0 -101.79285445000234,19.802973219713767,0 -101.79254265958345,19.80285956966188,0 -101.79255440035098,19.80238877023744,0 -101.79260811955852,19.802074369599676,0 -101.79283218041203,19.801654320233247,0 -101.79290348996591,19.801292879778455,0 -101.79293543026921,19.8007566799148,0 -101.79304497981663,19.800575689600834,0 -101.79305795016877,19.800186520187516,0 -101.795045710182,19.80124311986029,0 -101.79511829015756,19.80199767964049,0 -101.7951925699389,19.80267341997134,0 -101.79530877998972,19.80419134009698,0 -101.79481255037625,19.80399108013213,0 -101.79437668997376,19.80485873960326,0 -101.79391029033651,19.805927720008718,0 -101.79381831046392,19.80610175043427,0 -101.79350922999652,19.80679002041763,0 -101.79327007996618,19.80669177992792,0 -101.79297284975159,19.80656972004993,0 -101.7925051696742,19.80635777983556,0 -101.79202549001855,19.806150719781705,0 -101.79165838045793,19.806948570113732,0 -101.79088529730969,19.806640619575443,0 -101.79084291955363,19.806623739739482,0 -101.79078719986268,19.806600630108285,0 -101.7904639501242,19.80647841972021,0 -101.79001426020403,19.806299049935486,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="CVE_AGEB">
+          <value>0597</value>
+        </Data>
+        <Data name="CVE_LOC">
+          <value>1.0</value>
+        </Data>
+        <Data name="caso">
+          <value>2</value>
+        </Data>
+        <Data name="columnas_contribuyentes">
+          <value>supermercados y tiendas de abarrotes_porcentaje, farmacias_porcentaje</value>
+        </Data>
+        <Data name="comercio al por mayor">
+          <value>0.0</value>
+        </Data>
+        <Data name="comercio al por mayor_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="entidad">
+          <value>Michoac&#225;n de Ocampo</value>
+        </Data>
+        <Data name="farmacias">
+          <value>1.0</value>
+        </Data>
+        <Data name="farmacias_porcentaje">
+          <value>50.0</value>
+        </Data>
+        <Data name="id_entidad">
+          <value>16.0</value>
+        </Data>
+        <Data name="id_municipio">
+          <value>107.0</value>
+        </Data>
+        <Data name="localidad">
+          <value>Zacapu</value>
+        </Data>
+        <Data name="municipio">
+          <value>Zacapu</value>
+        </Data>
+        <Data name="restaurantes y servicios de comida">
+          <value>0.0</value>
+        </Data>
+        <Data name="restaurantes y servicios de comida_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="supermercados cadenas">
+          <value>0.0</value>
+        </Data>
+        <Data name="supermercados cadenas_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="supermercados y tiendas de abarrotes">
+          <value>1.0</value>
+        </Data>
+        <Data name="supermercados y tiendas de abarrotes_porcentaje">
+          <value>50.0</value>
+        </Data>
+        <Data name="tiendas conveniencia cadena">
+          <value>0.0</value>
+        </Data>
+        <Data name="tiendas conveniencia cadena_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="tiendas varias">
+          <value>0.0</value>
+        </Data>
+        <Data name="tiendas varias_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="totales">
+          <value>2.0</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-101.77889656964123,19.818999939670707,0 -101.7794633695979,19.817805879900295,0 -101.77991925988249,19.816878519603836,0 -101.78046925027806,19.817071909712837,0 -101.78073675043446,19.817222259567945,0 -101.78087116997628,19.817388919992286,0 -101.78090158032043,19.81757125994078,0 -101.78085034011626,19.817647719807628,0 -101.78141115044384,19.817966079718776,0 -101.7824675097838,19.818482450184952,0 -101.78379282004215,19.81916124969332,0 -101.78478364957179,19.81967540013619,0 -101.78580999993784,19.820179140331252,0 -101.78663625981983,19.820604569774027,0 -101.78727857992958,19.820925030350736,0 -101.78697869006369,19.821464489974147,0 -101.78669361992904,19.821891910093548,0 -101.78580624967425,19.822059740197783,0 -101.78570319971676,19.82208153992375,0 -101.78492635044621,19.821719969925073,0 -101.78459857971377,19.822308249880077,0 -101.78407575023216,19.822073260435168,0 -101.78355848040258,19.82183527976303,0 -101.78242925963528,19.82132057988583,0 -101.7811604604549,19.820683950173226,0 -101.78003914984555,19.82013989032591,0 -101.77868446015479,19.81945425006997,0 -101.77889656964123,19.818999939670707,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="CVE_AGEB">
+          <value>060A</value>
+        </Data>
+        <Data name="CVE_LOC">
+          <value>1.0</value>
+        </Data>
+        <Data name="caso">
+          <value>3</value>
+        </Data>
+        <Data name="columnas_contribuyentes">
+          <value>supermercados y tiendas de abarrotes_porcentaje, tiendas varias_porcentaje, restaurantes y servicios de comida_porcentaje</value>
+        </Data>
+        <Data name="comercio al por mayor">
+          <value>1.0</value>
+        </Data>
+        <Data name="comercio al por mayor_porcentaje">
+          <value>10.0</value>
+        </Data>
+        <Data name="entidad">
+          <value>Michoac&#225;n de Ocampo</value>
+        </Data>
+        <Data name="farmacias">
+          <value>1.0</value>
+        </Data>
+        <Data name="farmacias_porcentaje">
+          <value>10.0</value>
+        </Data>
+        <Data name="id_entidad">
+          <value>16.0</value>
+        </Data>
+        <Data name="id_municipio">
+          <value>107.0</value>
+        </Data>
+        <Data name="localidad">
+          <value>Zacapu</value>
+        </Data>
+        <Data name="municipio">
+          <value>Zacapu</value>
+        </Data>
+        <Data name="restaurantes y servicios de comida">
+          <value>1.0</value>
+        </Data>
+        <Data name="restaurantes y servicios de comida_porcentaje">
+          <value>10.0</value>
+        </Data>
+        <Data name="supermercados cadenas">
+          <value>0.0</value>
+        </Data>
+        <Data name="supermercados cadenas_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="supermercados y tiendas de abarrotes">
+          <value>5.0</value>
+        </Data>
+        <Data name="supermercados y tiendas de abarrotes_porcentaje">
+          <value>50.0</value>
+        </Data>
+        <Data name="tiendas conveniencia cadena">
+          <value>0.0</value>
+        </Data>
+        <Data name="tiendas conveniencia cadena_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="tiendas varias">
+          <value>2.0</value>
+        </Data>
+        <Data name="tiendas varias_porcentaje">
+          <value>20.0</value>
+        </Data>
+        <Data name="totales">
+          <value>10.0</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-101.77991925988249,19.816878519603836,0 -101.77986088978511,19.816786880380793,0 -101.77999629026532,19.816358649895307,0 -101.78026362997872,19.815566909581896,0 -101.78032237012323,19.815351049788635,0 -101.78149247983299,19.814953479554866,0 -101.78283363045591,19.814513620181568,0 -101.78340463039821,19.814872030155723,0 -101.78439437038213,19.815471449800302,0 -101.78565217016195,19.816221449866852,0 -101.78654267958659,19.816759179870584,0 -101.78742196992518,19.81731383035694,0 -101.78821700032309,19.817792620145042,0 -101.78880694953958,19.81816125956074,0 -101.78836165007053,19.818931250087363,0 -101.78822939989014,19.819174459952148,0 -101.7878996503615,19.81975997012461,0 -101.78758974962669,19.82035928025463,0 -101.78727857992958,19.820925030350736,0 -101.78663625981983,19.820604569774027,0 -101.78580999993784,19.820179140331252,0 -101.78478364957179,19.81967540013619,0 -101.78379282004215,19.81916124969332,0 -101.7824675097838,19.818482450184952,0 -101.78141115044384,19.817966079718776,0 -101.78085034011626,19.817647719807628,0 -101.78090158032043,19.81757125994078,0 -101.78087116997628,19.817388919992286,0 -101.78073675043446,19.817222259567945,0 -101.78046925027806,19.817071909712837,0 -101.77991925988249,19.816878519603836,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="CVE_AGEB">
+          <value>0493</value>
+        </Data>
+        <Data name="CVE_LOC">
+          <value>20.0</value>
+        </Data>
+        <Data name="caso">
+          <value>1</value>
+        </Data>
+        <Data name="columnas_contribuyentes">
+          <value>supermercados y tiendas de abarrotes_porcentaje</value>
+        </Data>
+        <Data name="comercio al por mayor">
+          <value>0.0</value>
+        </Data>
+        <Data name="comercio al por mayor_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="entidad">
+          <value>Michoac&#225;n de Ocampo</value>
+        </Data>
+        <Data name="farmacias">
+          <value>0.0</value>
+        </Data>
+        <Data name="farmacias_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="id_entidad">
+          <value>16.0</value>
+        </Data>
+        <Data name="id_municipio">
+          <value>107.0</value>
+        </Data>
+        <Data name="localidad">
+          <value>Naranja de Tapia</value>
+        </Data>
+        <Data name="municipio">
+          <value>Zacapu</value>
+        </Data>
+        <Data name="restaurantes y servicios de comida">
+          <value>0.0</value>
+        </Data>
+        <Data name="restaurantes y servicios de comida_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="supermercados cadenas">
+          <value>0.0</value>
+        </Data>
+        <Data name="supermercados cadenas_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="supermercados y tiendas de abarrotes">
+          <value>1.0</value>
+        </Data>
+        <Data name="supermercados y tiendas de abarrotes_porcentaje">
+          <value>100.0</value>
+        </Data>
+        <Data name="tiendas conveniencia cadena">
+          <value>0.0</value>
+        </Data>
+        <Data name="tiendas conveniencia cadena_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="tiendas varias">
+          <value>0.0</value>
+        </Data>
+        <Data name="tiendas varias_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="totales">
+          <value>1.0</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-101.76797070971244,19.775210340258244,0 -101.76811955004236,19.775175309583794,0 -101.76834260012227,19.775257779977412,0 -101.7686647401182,19.775422539634462,0 -101.76877608960032,19.77558700970035,0 -101.76882549038801,19.775716200040886,0 -101.76889964974775,19.775868879789158,0 -101.76904842038282,19.775892550129672,0 -101.76929634002637,19.775939850167745,0 -101.76951057496095,19.776211309875787,0 -101.77000425020961,19.777204519819392,0 -101.7698390897136,19.77728065030488,0 -101.7696332597566,19.777411490113526,0 -101.76952528974222,19.777542369798354,0 -101.76950284980238,19.777619249919105,0 -101.76949549035783,19.7776443698609,0 -101.7694594897299,19.777767690421783,0 -101.76935759960324,19.777994620181932,0 -101.76917445988529,19.778306079759783,0 -101.76908108010086,19.77842973977298,0 -101.76899112022933,19.778548859633737,0 -101.76863108008156,19.778797200132008,0 -101.76844962989495,19.778879909804782,0 -101.7681895696744,19.778998460118473,0 -101.76794181969659,19.779129490215016,0 -101.76792045002243,19.779140820349035,0 -101.7678207698792,19.779253570316772,0 -101.76750287970478,19.77961318983288,0 -101.76704900006285,19.780290019894476,0 -101.76684482012129,19.780503429865078,0 -101.76677682043271,19.78056613964354,0 -101.76654085026806,19.780783740222567,0 -101.7664858302496,19.78083445986932,0 -101.76634159970443,19.780933199848835,0 -101.76600135045992,19.781166170001434,0 -101.7655085802233,19.780252945886218,0 -101.76519391971085,19.779949919767777,0 -101.76448865030848,19.779511319555724,0 -101.76423396969284,19.779355570160536,0 -101.7638131802265,19.77909820022881,0 -101.76361429019502,19.778974849880886,0 -101.76356080044272,19.778943850031567,0 -101.76358011021608,19.77899562982811,0 -101.76364539953343,19.779170799782673,0 -101.7638962299202,19.779832089998074,0 -101.76416886024602,19.780575049832592,0 -101.76464179971016,19.781590119603806,0 -101.76470590992507,19.781719549731413,0 -101.7646490595494,19.781759520244545,0 -101.76423894008866,19.78203612031861,0 -101.76384428994075,19.781830510361385,0 -101.76361506012309,19.781769909681948,0 -101.76323295000792,19.781709119676016,0 -101.7628511200853,19.781443175278902,0 -101.7626856196423,19.781370569573923,0 -101.76192153954987,19.781152459873557,0 -101.7616540795727,19.781116079980222,0 -101.7613351104097,19.781105490200225,0 -101.7610447696494,19.78117758031857,0 -101.76081937959177,19.78130183037955,0 -101.76069297013377,19.781371520220883,0 -101.76045562028396,19.781574090230983,0 -101.76013211005954,19.781766570003036,0 -101.75985035003076,19.781910660063364,0 -101.75935486010506,19.782026369666877,0 -101.75930599993222,19.78203779997081,0 -101.75912914023084,19.78205692021525,0 -101.75895385043896,19.78204007971598,0 -101.75888786023236,19.782019580041503,0 -101.75862562015236,19.781938140299815,0 -101.75847910978474,19.7817660902101,0 -101.75821051001499,19.78149752027256,0 -101.75795676960405,19.781152540390018,0 -101.75793056988257,19.781115749726094,0 -101.75791964954323,19.781100399580826,0 -101.75760595027438,19.7806599103549,0 -101.75728771045497,19.78013662035621,0 -101.7567154004054,19.77908668995584,0 -101.75637568013474,19.778741850228602,0 -101.75635945979656,19.778725380304152,0 -101.75610847962331,19.778423260196618,0 -101.75573269038364,19.77789179990981,0 -101.75536768043337,19.777258139694776,0 -101.75487857029492,19.776323519714676,0 -101.75475778034766,19.776138430057784,0 -101.75455242007844,19.775867850244083,0 -101.75419621995064,19.775576280278173,0 -101.75384148034748,19.775355539933262,0 -101.75354155041269,19.775189340161425,0 -101.75334172036669,19.775035169573968,0 -101.75314247984709,19.774905080328967,0 -101.75302318004539,19.774804399672508,0 -101.75293419452211,19.774683660253242,0 -101.75279653963945,19.774529179831116,0 -101.75267165021661,19.77432748974358,0 -101.75255034962858,19.77416622015735,0 -101.75240248970202,19.7739906902162,0 -101.75227751008738,19.773836399629666,0 -101.75216298042477,19.77367926020632,0 -101.75207209036225,19.77350651957873,0 -101.75203231009486,19.77342505956901,0 -101.75201907968447,19.773217419576667,0 -101.75204579974702,19.773052510118283,0 -101.75205579964813,19.77299080012399,0 -101.7521964201933,19.772826830211688,0 -101.7526283204732,19.772467149579956,0 -101.75302020001114,19.772278419969734,0 -101.75278167987302,19.772132370265822,0 -101.75190111976967,19.77159311044634,0 -101.75175565019225,19.77150403001206,0 -101.75203338032817,19.770838689737484,0 -101.75219916983137,19.77049150963356,0 -101.75274621974863,19.769345881952614,0 -101.7530068504072,19.76876525960737,0 -101.753443739772,19.767791950234518,0 -101.75388442034232,19.76679563034978,0 -101.75399123029428,19.766554089667977,0 -101.75393618007276,19.766341029662325,0 -101.75383097998306,19.765933889992368,0 -101.75368943010413,19.765348080063923,0 -101.75366474047605,19.764995230440885,0 -101.75366102976867,19.764942460381008,0 -101.75366089009073,19.764935020061202,0 -101.75365435034993,19.764566739863596,0 -101.7537665397072,19.764003999725453,0 -101.75381982011967,19.76384026306002,0 -101.7539356200382,19.76347785024555,0 -101.75400489009152,19.763531549640117,0 -101.75674011964493,19.766099950329437,0 -101.75693912008578,19.766283980167916,0 -101.75747277008183,19.766777480187873,0 -101.7591237496597,19.76835915001735,0 -101.75987508956518,19.76923196989148,0 -101.76075765011433,19.77057345961686,0 -101.7610591404409,19.770517550277535,0 -101.76128261976025,19.770330050309916,0 -101.76159288972407,19.77014266036966,0 -101.76179146020623,19.770025550253504,0 -101.76203962019477,19.769908509633662,0 -101.76220096962827,19.769814830103943,0 -101.76230022998803,19.769756279644216,0 -101.76242433968514,19.769686020141304,0 -101.76258562033651,19.76962753955867,0 -101.76276756994825,19.769670949954,0 -101.76436321242475,19.770530202664524,0 -101.76283559803446,19.773314171753036,0 -101.7637559735939,19.773822425016043,0 -101.76520554241627,19.774527697152593,0 -101.76553390706111,19.774242162273794,0 -101.76628542962953,19.774515539725687,0 -101.76782770803912,19.775189187378754,0 -101.76797070971244,19.775210340258244,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="CVE_AGEB">
+          <value>007A</value>
+        </Data>
+        <Data name="CVE_LOC">
+          <value>25.0</value>
+        </Data>
+        <Data name="caso">
+          <value>1</value>
+        </Data>
+        <Data name="columnas_contribuyentes">
+          <value>supermercados y tiendas de abarrotes_porcentaje</value>
+        </Data>
+        <Data name="comercio al por mayor">
+          <value>0.0</value>
+        </Data>
+        <Data name="comercio al por mayor_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="entidad">
+          <value>Michoac&#225;n de Ocampo</value>
+        </Data>
+        <Data name="farmacias">
+          <value>0.0</value>
+        </Data>
+        <Data name="farmacias_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="id_entidad">
+          <value>16.0</value>
+        </Data>
+        <Data name="id_municipio">
+          <value>107.0</value>
+        </Data>
+        <Data name="localidad">
+          <value>Tir&#237;ndaro</value>
+        </Data>
+        <Data name="municipio">
+          <value>Zacapu</value>
+        </Data>
+        <Data name="restaurantes y servicios de comida">
+          <value>0.0</value>
+        </Data>
+        <Data name="restaurantes y servicios de comida_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="supermercados cadenas">
+          <value>0.0</value>
+        </Data>
+        <Data name="supermercados cadenas_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="supermercados y tiendas de abarrotes">
+          <value>1.0</value>
+        </Data>
+        <Data name="supermercados y tiendas de abarrotes_porcentaje">
+          <value>100.0</value>
+        </Data>
+        <Data name="tiendas conveniencia cadena">
+          <value>0.0</value>
+        </Data>
+        <Data name="tiendas conveniencia cadena_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="tiendas varias">
+          <value>0.0</value>
+        </Data>
+        <Data name="tiendas varias_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="totales">
+          <value>1.0</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-101.73971714017411,19.771277939680875,0 -101.7405200204702,19.771452649874792,0 -101.74184865954592,19.771741799811217,0 -101.74216557956113,19.770846350287343,0 -101.74243425036674,19.770087250025853,0 -101.74278728965628,19.7691776299051,0 -101.74293885042604,19.768292779948766,0 -101.74371594042294,19.76857717003577,0 -101.74504076986727,19.76906203004346,0 -101.74660277994398,19.769633460172585,0 -101.74623894030911,19.770491060313987,0 -101.7459066302474,19.771274349871554,0 -101.74553651955924,19.772146689943845,0 -101.74542154962288,19.772417680212023,0 -101.74519957964868,19.772940860288575,0 -101.74482662963781,19.773819879616415,0 -101.7440520200701,19.77350373974373,0 -101.74314876998156,19.77313508025968,0 -101.7423930002683,19.77282662988331,0 -101.74163171021964,19.772515909624943,0 -101.7393585104326,19.771588079831844,0 -101.73934531034993,19.77121125996871,0 -101.73971714017411,19.771277939680875,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="CVE_AGEB">
+          <value>0277</value>
+        </Data>
+        <Data name="CVE_LOC">
+          <value>25.0</value>
+        </Data>
+        <Data name="caso">
+          <value>1</value>
+        </Data>
+        <Data name="columnas_contribuyentes">
+          <value>supermercados y tiendas de abarrotes_porcentaje</value>
+        </Data>
+        <Data name="comercio al por mayor">
+          <value>0.0</value>
+        </Data>
+        <Data name="comercio al por mayor_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="entidad">
+          <value>Michoac&#225;n de Ocampo</value>
+        </Data>
+        <Data name="farmacias">
+          <value>0.0</value>
+        </Data>
+        <Data name="farmacias_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="id_entidad">
+          <value>16.0</value>
+        </Data>
+        <Data name="id_municipio">
+          <value>107.0</value>
+        </Data>
+        <Data name="localidad">
+          <value>Tir&#237;ndaro</value>
+        </Data>
+        <Data name="municipio">
+          <value>Zacapu</value>
+        </Data>
+        <Data name="restaurantes y servicios de comida">
+          <value>0.0</value>
+        </Data>
+        <Data name="restaurantes y servicios de comida_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="supermercados cadenas">
+          <value>0.0</value>
+        </Data>
+        <Data name="supermercados cadenas_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="supermercados y tiendas de abarrotes">
+          <value>1.0</value>
+        </Data>
+        <Data name="supermercados y tiendas de abarrotes_porcentaje">
+          <value>100.0</value>
+        </Data>
+        <Data name="tiendas conveniencia cadena">
+          <value>0.0</value>
+        </Data>
+        <Data name="tiendas conveniencia cadena_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="tiendas varias">
+          <value>0.0</value>
+        </Data>
+        <Data name="tiendas varias_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="totales">
+          <value>1.0</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-101.75117379999509,19.773858770307132,0 -101.75102510996369,19.773973120274366,0 -101.74923033617395,19.773340624263067,0 -101.74824880816963,19.773162163792723,0 -101.74744990431302,19.7748109331355,0 -101.74679733679557,19.776041311688537,0 -101.74615696466829,19.775788295555543,0 -101.74562456014148,19.776960181230027,0 -101.74517246271209,19.776772797860104,0 -101.74472928765472,19.777795966176726,0 -101.74329495006116,19.7785500596637,0 -101.7432129800117,19.77800117989503,0 -101.74435858024381,19.774929880274993,0 -101.74427798002884,19.77490052012981,0 -101.74303322955129,19.774447119675543,0 -101.7428158497214,19.77468304974533,0 -101.74037655038532,19.773643879915504,0 -101.74047487965969,19.77344121998984,0 -101.7385693699707,19.772781970227847,0 -101.73846106033544,19.772744490075826,0 -101.73628418037633,19.77199134038112,0 -101.73671734029023,19.771022250280925,0 -101.73770122980017,19.770912080220228,0 -101.7388207495707,19.771115819901755,0 -101.73923243018477,19.771190720205656,0 -101.73934531034993,19.77121125996871,0 -101.7393585104326,19.771588079831844,0 -101.74163171021964,19.772515909624943,0 -101.7423930002683,19.77282662988331,0 -101.74314876998156,19.77313508025968,0 -101.7440520200701,19.77350373974373,0 -101.74482662963781,19.773819879616415,0 -101.74519957964868,19.772940860288575,0 -101.74542154962288,19.772417680212023,0 -101.74553651955924,19.772146689943845,0 -101.7459066302474,19.771274349871554,0 -101.74623894030911,19.770491060313987,0 -101.74660277994398,19.769633460172585,0 -101.74682351024673,19.769697919997864,0 -101.74861771029569,19.770380220164153,0 -101.74903212008992,19.770537799908553,0 -101.75039670989946,19.77101805026243,0 -101.75155254016818,19.771421379669977,0 -101.75158945964996,19.771435419593068,0 -101.75175565019225,19.77150403001206,0 -101.75190111976967,19.77159311044634,0 -101.75278167987302,19.772132370265822,0 -101.75302020001114,19.772278419969734,0 -101.7526283204732,19.772467149579956,0 -101.7521964201933,19.772826830211688,0 -101.75205579964813,19.77299080012399,0 -101.75204579974702,19.773052510118283,0 -101.75201907968447,19.773217419576667,0 -101.75203231009486,19.77342505956901,0 -101.75190814993752,19.77352177955588,0 -101.75180172041372,19.773566430169918,0 -101.75156756991088,19.77361869033755,0 -101.75127888968939,19.773753430179628,0 -101.75117379999509,19.773858770307132,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="CVE_AGEB">
+          <value>0296</value>
+        </Data>
+        <Data name="CVE_LOC">
+          <value>25.0</value>
+        </Data>
+        <Data name="caso">
+          <value>1</value>
+        </Data>
+        <Data name="columnas_contribuyentes">
+          <value>tiendas conveniencia cadena_porcentaje</value>
+        </Data>
+        <Data name="comercio al por mayor">
+          <value>0.0</value>
+        </Data>
+        <Data name="comercio al por mayor_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="entidad">
+          <value>Michoac&#225;n de Ocampo</value>
+        </Data>
+        <Data name="farmacias">
+          <value>0.0</value>
+        </Data>
+        <Data name="farmacias_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="id_entidad">
+          <value>16.0</value>
+        </Data>
+        <Data name="id_municipio">
+          <value>107.0</value>
+        </Data>
+        <Data name="localidad">
+          <value>Tir&#237;ndaro</value>
+        </Data>
+        <Data name="municipio">
+          <value>Zacapu</value>
+        </Data>
+        <Data name="restaurantes y servicios de comida">
+          <value>0.0</value>
+        </Data>
+        <Data name="restaurantes y servicios de comida_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="supermercados cadenas">
+          <value>0.0</value>
+        </Data>
+        <Data name="supermercados cadenas_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="supermercados y tiendas de abarrotes">
+          <value>0.0</value>
+        </Data>
+        <Data name="supermercados y tiendas de abarrotes_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="tiendas conveniencia cadena">
+          <value>1.0</value>
+        </Data>
+        <Data name="tiendas conveniencia cadena_porcentaje">
+          <value>100.0</value>
+        </Data>
+        <Data name="tiendas varias">
+          <value>0.0</value>
+        </Data>
+        <Data name="tiendas varias_porcentaje">
+          <value>0.0</value>
+        </Data>
+        <Data name="totales">
+          <value>1.0</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-101.74954849041248,19.760773170331454,0 -101.74938960005922,19.760217149899475,0 -101.74953818028685,19.760282579737407,0 -101.7497101102731,19.760372150032616,0 -101.7500880499959,19.760747779652956,0 -101.75041444956028,19.76136800010284,0 -101.7507634303733,19.76179395002846,0 -101.75127514027464,19.76225034017231,0 -101.75189885034324,19.762523149926235,0 -101.75295055007024,19.762877340113228,0 -101.75335993804147,19.76311391810777,0 -101.75384721963886,19.76339550955049,0 -101.7539356200382,19.76347785024555,0 -101.75381982011967,19.76384026306002,0 -101.7537665397072,19.764003999725453,0 -101.75365435034993,19.764566739863596,0 -101.75366089009073,19.764935020061202,0 -101.75366102976867,19.764942460381008,0 -101.75366474047605,19.764995230440885,0 -101.75368943010413,19.765348080063923,0 -101.75383097998306,19.765933889992368,0 -101.75393618007276,19.766341029662325,0 -101.75399123029428,19.766554089667977,0 -101.75388442034232,19.76679563034978,0 -101.753443739772,19.767791950234518,0 -101.7530068504072,19.76876525960737,0 -101.75274621974863,19.769345881952614,0 -101.75219916983137,19.77049150963356,0 -101.75203338032817,19.770838689737484,0 -101.75175565019225,19.77150403001206,0 -101.75158945964996,19.771435419593068,0 -101.75155254016818,19.771421379669977,0 -101.75039670989946,19.77101805026243,0 -101.74903212008992,19.770537799908553,0 -101.74861771029569,19.770380220164153,0 -101.74682351024673,19.769697919997864,0 -101.7470136796758,19.769483509897892,0 -101.74754977034404,19.768665679590395,0 -101.74796136961561,19.767850509571293,0 -101.7482491197432,19.767268550156032,0 -101.74856417978212,19.76658184992286,0 -101.74900458042852,19.76556207995014,0 -101.74925677986619,19.764982970419382,0 -101.74961600031449,19.764114280343016,0 -101.74945648960629,19.763751579598775,0 -101.74915363010318,19.763130649554906,0 -101.74919519998993,19.76267346040043,0 -101.74937478005164,19.762013050263715,0 -101.74947693956948,19.761494519824286,0 -101.74950573987857,19.76100625030154,0 -101.74954849041248,19.760773170331454,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>
